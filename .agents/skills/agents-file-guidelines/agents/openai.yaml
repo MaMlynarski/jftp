@@ -1,0 +1,6 @@
+interface:
+  display_name: "AGENTS.md Author"
+  short_description: "Create concise project guidance from reusable templates"
+  default_prompt: "Use $agents-file-guidelines to create concise root and nested AGENTS.md files for this project."
+policy:
+  allow_implicit_invocation: true
