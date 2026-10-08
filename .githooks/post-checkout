@@ -1,0 +1,5 @@
+#!/bin/sh
+repo_root=$(git rev-parse --show-toplevel) || exit 1
+hook_script="$repo_root/docs/RepoMix/Artefact/context7/refresh-after-git-change.ps1"
+powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "$hook_script" -Event checkout -OldRevision "$1" -NewRevision "$2" -BranchCheckout "$3"
+exit $?

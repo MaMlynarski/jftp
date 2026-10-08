@@ -2,3 +2,4 @@
 # Playwright CLI output (may contain credentials)
 .playwright-cli/
 mpc.json
+/target/

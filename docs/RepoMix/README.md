@@ -34,13 +34,15 @@ The repository also has a local Context7-compatible retrieval service backed by
 SQLite FTS5. The index covers the checkout's UTF-8 source/configuration and
 authored Markdown docs, with docs provenance. Generated maps/packs and the
 tracked `mpc.json` are excluded. The index was built at revision
-`c343608eb897e8c06f9cfb2c72c5228067a1e864` (553 files, 3,002 chunks); 41
+`9e8489140eded27672977ca8b50a1fd2c53320fe` (553 files, 3,003 chunks); 41
 non-UTF-8 files were reported as skipped. This lexical index does not use a
 downloaded model.
 
 The index database and isolated `ctx7` 0.5.13 CLI/config live under
 `%LOCALAPPDATA%\Codex\jftp-context7`, outside the checkout. To refresh the
 index after source changes, run `Artefact/context7/index-jftp-context7.ps1`.
+That repo-specific helper calls the Python backend shipped with the legacy-codebase
+skill and supplies this repository's database path and exclusions.
 Start the loopback-only service with
 `Artefact/context7/start-jftp-context7.ps1`, then search with:
 
@@ -59,6 +61,23 @@ for external library documentation.
 
 The isolated CLI is `ctx7` 0.5.13. To reinstall it, run
 `npm install --prefix "$env:LOCALAPPDATA\Codex\jftp-context7\client" --no-audit --no-fund ctx7@0.5.13`.
+
+## Automatic refresh
+
+The installed Git hooks refresh the local index after a commit, merge, branch
+checkout, or history rewrite. They run the same index script and print changed
+and deleted file counts. To enable the repo-local hooks in another clone, run
+`git config --local core.hooksPath .githooks` after initializing the index.
+The agent instructions also tell agents to refresh once after a batch of
+indexed source/docs edits, before the next local search or handoff.
+
+The indexer already updates chunks incrementally: it hashes the included
+corpus, then only rebuilds chunks/vectors for changed files and removes deleted
+files in one transaction. It has no `--files` partial-index option, and Git
+revision/freshness validation still requires a full inventory/hash pass. Thus
+one invocation avoids reprocessing unchanged file content, but does not avoid
+scanning the whole indexed corpus. A Git revision change requires an index
+refresh even when the commit did not alter an indexed file.
 
 ## Scope
 

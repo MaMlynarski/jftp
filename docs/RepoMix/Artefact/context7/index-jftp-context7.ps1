@@ -19,5 +19,7 @@ if (-not $PythonExe -or -not (Test-Path -LiteralPath $PythonExe)) {
 }
 
 New-Item -ItemType Directory -Force -Path $dataRoot | Out-Null
-& $PythonExe -B $backend index $repoRoot --database $database --library-id /local/jftp --docs-root (Join-Path $repoRoot 'docs') --exclude mpc.json --exclude docs/RepoMix --exclude RepoMix --exclude docs/jftp-repomap.md --exclude jftp-repomap.md
+$indexOutput = & $PythonExe -B $backend index $repoRoot --database $database --library-id /local/jftp --docs-root (Join-Path $repoRoot 'docs') --exclude mpc.json --exclude docs/RepoMix --exclude RepoMix --exclude docs/jftp-repomap.md --exclude jftp-repomap.md
 if ($LASTEXITCODE -ne 0) { throw "Context7 indexing failed with exit code $LASTEXITCODE." }
+$result = ($indexOutput -join [Environment]::NewLine) | ConvertFrom-Json
+Write-Output "Local Context7 index refreshed: changed $($result.changed), deleted $($result.deleted), $($result.files) files, $($result.chunks) chunks, $($result.skippedCount) skipped."
