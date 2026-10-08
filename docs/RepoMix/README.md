@@ -28,6 +28,38 @@ original source. The full pack retains the selected source text.
 The session-analysis helper is also kept under `Artefact/`; these supporting
 files are not part of the default source context.
 
+## Local Context7 source search
+
+The repository also has a local Context7-compatible retrieval service backed by
+SQLite FTS5. The index covers the checkout's UTF-8 source/configuration and
+authored Markdown docs, with docs provenance. Generated maps/packs and the
+tracked `mpc.json` are excluded. The index was built at revision
+`c343608eb897e8c06f9cfb2c72c5228067a1e864` (553 files, 3,002 chunks); 41
+non-UTF-8 files were reported as skipped. This lexical index does not use a
+downloaded model.
+
+The index database and isolated `ctx7` 0.5.13 CLI/config live under
+`%LOCALAPPDATA%\Codex\jftp-context7`, outside the checkout. To refresh the
+index after source changes, run `Artefact/context7/index-jftp-context7.ps1`.
+Start the loopback-only service with
+`Artefact/context7/start-jftp-context7.ps1`, then search with:
+
+```powershell
+.\docs\RepoMix\Artefact\context7\query-jftp-context7.ps1 -Query "FTP transfer cancellation"
+```
+
+Use `-Command library` to resolve `/local/jftp`, or `-Command docs` for source
+snippets. Exact-symbol lookups are also served by `rg` and the Repo Map; use
+these before broader natural-language retrieval. Treat retrieved snippets as
+navigation evidence, then verify behavior in current source. The helper always
+targets `127.0.0.1` and returns JSON; it never needs Context7 login or a hosted
+endpoint. The local HTTP service is unauthenticated, so it binds only to
+loopback. This local CLI service is separate from the hosted Context7 MCP used
+for external library documentation.
+
+The isolated CLI is `ctx7` 0.5.13. To reinstall it, run
+`npm install --prefix "$env:LOCALAPPDATA\Codex\jftp-context7\client" --no-audit --no-fund ctx7@0.5.13`.
+
 ## Scope
 
 Included Java sources, default/German/Traditional Chinese `.properties`

@@ -6,7 +6,7 @@ This documentation records the repository's current state as inspected on 2026-1
 
 - [Project overview](current-state-overview.md) — purpose, high-level architecture, repository layout, and known boundaries.
 - [Repo Map](jftp-repomap.md) — compact generated index of source files and declarations; start here for navigation.
-- [RepoMix packs](RepoMix/README.md) — full and structurally compressed snapshots for broader cross-file orientation.
+- [RepoMix packs and local Context7 search](RepoMix/README.md) — full and structurally compressed snapshots, plus local source retrieval setup.
 - [Build and dependencies](build-and-dependencies.md) — Maven configuration, dependency and plugin versions, launch entry point, packaging, and build risks.
 - [Architecture and UI](architecture-and-ui.md) — startup, windows, session composition, menus, panes, and shared Swing components.
 - [Shared GUI components](gui-components.md) — custom Swing controls, renderers, themes, busy-state handling, and worker lifecycle.
