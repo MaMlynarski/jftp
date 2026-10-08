@@ -1,0 +1,1117 @@
+{
+  "coverage": {
+    "candidates_seen": 776,
+    "definitions_found": 1954,
+    "definitions_in_map": 1954,
+    "definitions_omitted": 0,
+    "files_with_definitions": 215,
+    "parsed_files": 218,
+    "selected_files": 632
+  },
+  "dependencies": {
+    "networkx": "3.4.2",
+    "tree-sitter": "0.25.2",
+    "tree-sitter-c-sharp": "0.23.5",
+    "tree-sitter-language-pack": "0.13.0"
+  },
+  "descriptors": [
+    ".agents/skills/agents-file-guidelines/agents/openai.yaml",
+    ".agents/skills/legacy-codebase-workflows/scripts/retrieval/package.json",
+    ".agents/skills/legacy-codebase-workflows/scripts/retrieval/pnpm-lock.yaml",
+    ".agents/skills/legacy-codebase-workflows/scripts/retrieval/pnpm-workspace.yaml",
+    ".agents/skills/legacy-codebase-workflows/tool-distribution.json",
+    ".agents/skills/legacy-codebase-workflows/vendor/manifest.json",
+    ".claude/skills/legacy-codebase-workflows/scripts/retrieval/package.json",
+    ".claude/skills/legacy-codebase-workflows/scripts/retrieval/pnpm-lock.yaml",
+    ".claude/skills/legacy-codebase-workflows/scripts/retrieval/pnpm-workspace.yaml",
+    ".claude/skills/legacy-codebase-workflows/tool-distribution.json",
+    ".claude/skills/legacy-codebase-workflows/vendor/manifest.json",
+    ".idea/compiler.xml",
+    ".idea/encodings.xml",
+    ".idea/jarRepositories.xml",
+    ".idea/misc.xml",
+    ".idea/vcs.xml",
+    "assets/design-tokens.json",
+    "pom.xml",
+    "skills-lock.json",
+    "src/main/assembly/binary.xml",
+    "src/main/help/helpset/glossary.xml",
+    "src/main/help/helpset/helpSet.xml",
+    "src/main/help/helpset/index.xml",
+    "src/main/help/helpset/map.xml",
+    "src/main/help/helpset/toc.xml",
+    "src/main/resources/com/myjavaworld/gui/EditPopupMenu.properties",
+    "src/main/resources/com/myjavaworld/gui/LicenseAgreementDlg.properties",
+    "src/main/resources/com/myjavaworld/gui/ProgressDialog.properties",
+    "src/main/resources/com/myjavaworld/jftp/AboutDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/AdvancedConnectionPrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/AutoUpdater.properties",
+    "src/main/resources/com/myjavaworld/jftp/CertificatePrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/ChangeLocalDirectoryDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/ChangeRemoteDirectoryDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/ConnectionDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/DownloadAndUnzipDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/DownloadAsDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/ExecuteCommandDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/FTPMenu.properties",
+    "src/main/resources/com/myjavaworld/jftp/FTPSession.properties",
+    "src/main/resources/com/myjavaworld/jftp/FavoritePropertiesDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/FavoritesDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/GeneralConnectionPrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/HelpMenu.properties",
+    "src/main/resources/com/myjavaworld/jftp/JFTP.properties",
+    "src/main/resources/com/myjavaworld/jftp/JFTPApplet.properties",
+    "src/main/resources/com/myjavaworld/jftp/JFTPToolBar.properties",
+    "src/main/resources/com/myjavaworld/jftp/LocalFileFilterDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/LocalFilePropertiesDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/LocalFileTableModel.properties",
+    "src/main/resources/com/myjavaworld/jftp/LocalPane.properties",
+    "src/main/resources/com/myjavaworld/jftp/LocalSystemMenu.properties",
+    "src/main/resources/com/myjavaworld/jftp/LocalePrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/NewLocalDirectoryDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/NewLocalFileDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/NewRemoteDirectoryDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/NewRemoteFileDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/PreferencesDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/ProxyPrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/RemoteFileFilterDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/RemoteFilePropertiesDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/RemoteFileTableModel.properties",
+    "src/main/resources/com/myjavaworld/jftp/RemotePane.properties",
+    "src/main/resources/com/myjavaworld/jftp/RemoteSystemMenu.properties",
+    "src/main/resources/com/myjavaworld/jftp/RenameLocalFileDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/RenameRemoteFileDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/SecurityPrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/SoftwareUpdatePrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/StatusBar.properties",
+    "src/main/resources/com/myjavaworld/jftp/StatusWindow.properties",
+    "src/main/resources/com/myjavaworld/jftp/ToolsMenu.properties",
+    "src/main/resources/com/myjavaworld/jftp/TransferModeMenu.properties",
+    "src/main/resources/com/myjavaworld/jftp/TransferModesPrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/UIPrefsPanel.properties",
+    "src/main/resources/com/myjavaworld/jftp/UploadAsDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/ZipAndUploadDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/ssl/CertificateDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/ssl/CertificateManagerDlg.properties",
+    "src/main/resources/com/myjavaworld/jftp/ssl/CertificatePane.properties",
+    "src/main/resources/com/myjavaworld/jftp/ssl/CertificateTableModel.properties",
+    "src/main/resources/com/myjavaworld/jftp/ssl/SecurityWarningDlg.properties",
+    "src/main/resources/com/myjavaworld/util/CommonResources.properties",
+    "src/main/resources_de/com/myjavaworld/gui/LicenseAgreementDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/gui/ProgressDialog_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/DownloadAsDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/JFTPApplet_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/JFTP_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/NewLocalDirectoryDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/NewLocalFileDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/NewRemoteDirectoryDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/NewRemoteFileDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/RemotePane_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/RenameLocalFileDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/RenameRemoteFileDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/StatusBar_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/UIPrefsPanel_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/UploadAsDlg_de.properties",
+    "src/main/resources_de/com/myjavaworld/jftp/ssl/CertificateDlg_de.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/gui/EditPopupMenu_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/gui/LicenseAgreementDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/gui/ProgressDialog_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/AboutDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/AdvancedConnectionPrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/AutoUpdater_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/CertificatePrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ChangeLocalDirectoryDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ChangeRemoteDirectoryDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ConnectionDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/DownloadAndUnzipDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/DownloadAsDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ExecuteCommandDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/FTPMenu_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/FTPSession_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/FavoritePropertiesDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/FavoritesDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/GeneralConnectionPrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/HelpMenu_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/InstallLicenseDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/JFTPApplet_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/JFTPToolBar_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/JFTP_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalFileFilterDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalFilePropertiesDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalFileTableModel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalPane_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalSystemMenu_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalePrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/NewLocalDirectoryDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/NewLocalFileDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/NewRemoteDirectoryDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/NewRemoteFileDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/PreferencesDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ProxyPrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/RemoteFileFilterDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/RemoteFilePropertiesDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/RemoteFileTableModel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/RemotePane_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/RemoteSystemMenu_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/RenameLocalFileDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/RenameRemoteFileDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/SecurityPrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/SoftwareUpdatePrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/StatusBar_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/StatusWindow_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ToolsMenu_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/TransferModeMenu_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/TransferModesPrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/UIPrefsPanel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/UploadAsDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ZipAndUploadDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/CertificateDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/CertificateManagerDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/CertificatePane_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/CertificateTableModel_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/SecurityWarningDlg_zh_TW.properties",
+    "src/main/resources_zh_TW/com/myjavaworld/util/CommonResources_zh_TW.properties"
+  ],
+  "dirty": true,
+  "estimated_tokens": 34804,
+  "estimator": "ceil(Unicode characters / 4); a size estimate, not a model tokenizer",
+  "export": {
+    "artifact_dir": "C:\\Users\\MaMlynarski\\AppData\\Local\\Temp\\jftp-map-refresh-stage",
+    "estimator": "ceil(Unicode characters / 4); a size estimate, not a model tokenizer",
+    "evidence_dir": "C:\\j2ee\\GIT\\jftp-fork\\docs\\RepoMix\\Artefact\\jftp-repomap",
+    "generation_elapsed_seconds": 9.3127813,
+    "implementation": "python",
+    "raw_estimated_tokens": 34804,
+    "raw_file": "C:\\j2ee\\GIT\\jftp-fork\\docs\\RepoMix\\Artefact\\jftp-repomap\\jftp-repomap.raw.md",
+    "raw_unicode_characters": 139216,
+    "raw_utf8_bytes": 139216,
+    "report_estimated_tokens": 35151,
+    "report_file": "C:\\j2ee\\GIT\\jftp-fork\\docs\\jftp-repomap.md",
+    "report_sha256": "1c9b5b696bd6d54e5708df8cf9d668c0fd141a8c42972820ffac3a40de82907e",
+    "report_unicode_characters": 140603,
+    "report_utf8_bytes": 140603,
+    "schema_version": 1
+  },
+  "fingerprint_scope": "selected readable files and skip reasons, from current bytes; ignored files and secret contents are excluded",
+  "focus_not_found": {
+    "files_not_parsed": [],
+    "symbols_without_definitions": []
+  },
+  "git_notes": [],
+  "inventory_summary": {
+    "languages": {
+      "descriptor": 156,
+      "java": 182,
+      "javascript": 16,
+      "other": 258,
+      "python": 20
+    },
+    "modules": [
+      {
+        "files": 430,
+        "path": "src/main"
+      },
+      {
+        "files": 84,
+        "path": ".agents/skills"
+      },
+      {
+        "files": 78,
+        "path": ".claude/skills"
+      },
+      {
+        "files": 13,
+        "path": "docs"
+      },
+      {
+        "files": 10,
+        "path": "<root>"
+      },
+      {
+        "files": 6,
+        "path": ".idea"
+      },
+      {
+        "files": 6,
+        "path": ".settings"
+      },
+      {
+        "files": 2,
+        "path": "assets"
+      },
+      {
+        "files": 2,
+        "path": "src/test"
+      },
+      {
+        "files": 1,
+        "path": "docs/analysis"
+      }
+    ],
+    "modules_omitted": 0
+  },
+  "limits": {
+    "budget": 65536,
+    "max_file_bytes": 2000000,
+    "max_files": 10000,
+    "max_tags_per_file": 20000,
+    "max_total_tags": 200000
+  },
+  "map_sha256": "d5774482c628e445d92a38f9ba89b933b7a520aaf9ce2f69e56f4455e241ff0d",
+  "parse_failures": [],
+  "rendering": {
+    "clipped_declarations": [],
+    "declaration_character_limit": 8000,
+    "declaration_line_limit": 80,
+    "format": "grouped"
+  },
+  "revision": "c3182280a6c74049b9f926e53c7b381ecdc74f8c",
+  "selection": {
+    "excludes": [
+      "docs/repo-maps/*",
+      "docs/artifacts/*"
+    ],
+    "focus_files": [],
+    "focus_symbols": [],
+    "mode": "ranked",
+    "subtrees": []
+  },
+  "skipped": [
+    {
+      "path": "assets/favicon.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "assets/homepage.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "docs/artifacts/jftp-repomap/jftp-repomap.inventory.json",
+      "reason": "explicit exclusion"
+    },
+    {
+      "path": "docs/artifacts/jftp-repomap/jftp-repomap.meta.json",
+      "reason": "explicit exclusion"
+    },
+    {
+      "path": "docs/artifacts/jftp-repomap/jftp-repomap.raw.md",
+      "reason": "explicit exclusion"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/abort16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/certificate16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/changeLocalDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/changeRemoteDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/closedBook16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/connect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/deleteLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/deleteRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/directory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/directory32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/disconnect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/downArrow16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/download16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/favorites16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/file16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/file32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/hardDrive16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/help16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/host16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/indexIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/jftp16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/jftp32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newLocalDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newRemoteDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newSession16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/nextIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/note32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/openBook16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/previousIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/reconnect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/renameLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/renameRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/searchIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/server16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/splash.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/tip32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/tocIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/topic16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/upArrow16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/upDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/upload16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/screenshots/mainWindowExplanation.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/screenshots/mainWindowExplanation.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/sessions/images/cascade.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/sessions/images/tileHorizontal.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/sessions/images/tileVertical.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/abort16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/certificate16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/changeLocalDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/changeRemoteDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/changeRemoteDirectory16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/connect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/deleteLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/deleteRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/deleteRemoteFile16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/directory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/directory32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/disconnect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/downArrow16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/download16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/favorites16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/file16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/file32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/hardDrive16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/help16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/host16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp.icns",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp128.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp128.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp32.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp48.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp48.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp60.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/key16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/launch.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/lock16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newLocalDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newRemoteDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newRemoteDirectory16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newRemoteFile16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newSession16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/reconnect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/renameLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/renameRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/renameRemoteFile16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/server16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/splash.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/splash.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/upArrow16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/upDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/upload16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/gui/EditPopupMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/AboutDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/AdvancedConnectionPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/AutoUpdater_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/CertificatePrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ChangeLocalDirectoryDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ChangeRemoteDirectoryDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ConnectionDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/DownloadAndUnzipDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ExecuteCommandDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/FTPMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/FTPSession_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/FavoritePropertiesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/FavoritesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/GeneralConnectionPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/HelpMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/JFTPToolBar_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalFileFilterDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalFilePropertiesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalFileTableModel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalPane_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalSystemMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalePrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/PreferencesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ProxyPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemoteFileFilterDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemoteFilePropertiesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemoteFileTableModel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemoteSystemMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/SecurityPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/SoftwareUpdatePrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/StatusWindow_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ToolsMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/TransferModeMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/TransferModesPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ZipAndUploadDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/CertificateManagerDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/CertificatePane_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/CertificateTableModel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/SecurityWarningDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/util/CommonResources_de.properties",
+      "reason": "non-UTF-8 file"
+    }
+  ],
+  "source_root": "C:\\j2ee\\GIT\\jftp-fork",
+  "status": "complete",
+  "tool": "legacy-codebase-workflows repo_map",
+  "truncated": false,
+  "unsupported_languages": [
+    ".agents/skills/agents-file-guidelines/SKILL.md",
+    ".agents/skills/agents-file-guidelines/assets/AGENTS.desktop.template.md",
+    ".agents/skills/agents-file-guidelines/assets/AGENTS.web.template.md",
+    ".agents/skills/agents-file-guidelines/references/desktop-workflow.md",
+    ".agents/skills/agents-file-guidelines/references/web-workflow.md",
+    ".agents/skills/cloudflare-safe/SKILL.md",
+    ".agents/skills/cloudflare-safe/references/auth-methods.md",
+    ".agents/skills/cloudflare-safe/references/change-file.md",
+    ".agents/skills/cloudflare-safe/references/setup.md",
+    ".agents/skills/cloudflare-safe/references/verified-bots.md",
+    ".agents/skills/create-design-system/SKILL.md",
+    ".agents/skills/create-design-system/references/setup.md",
+    ".agents/skills/java-junit/SKILL.md",
+    ".agents/skills/legacy-codebase-workflows/LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/NOTICE.txt",
+    ".agents/skills/legacy-codebase-workflows/SKILL.md",
+    ".agents/skills/legacy-codebase-workflows/THIRD_PARTY.md",
+    ".agents/skills/legacy-codebase-workflows/references/changes.md",
+    ".agents/skills/legacy-codebase-workflows/references/design-sources.md",
+    ".agents/skills/legacy-codebase-workflows/references/distribution.md",
+    ".agents/skills/legacy-codebase-workflows/references/investigation.md",
+    ".agents/skills/legacy-codebase-workflows/references/native-tooling.md",
+    ".agents/skills/legacy-codebase-workflows/references/private-retrieval.md",
+    ".agents/skills/legacy-codebase-workflows/references/repo-map.md",
+    ".agents/skills/legacy-codebase-workflows/references/repomix.md",
+    ".agents/skills/legacy-codebase-workflows/references/scale-and-intake.md",
+    ".agents/skills/legacy-codebase-workflows/references/setup.md",
+    ".agents/skills/legacy-codebase-workflows/references/workers.md",
+    ".agents/skills/legacy-codebase-workflows/requirements-map.txt",
+    ".agents/skills/legacy-codebase-workflows/scripts/requirements-retrieval.txt",
+    ".agents/skills/legacy-codebase-workflows/templates/repository-intake.md",
+    ".agents/skills/legacy-codebase-workflows/vendor/LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/c-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/cpp-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/csharp-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/go-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/java-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/javascript-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/python-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/rust-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/licenses/typescript-LICENSE.txt",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/README.md",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/c-tags.scm",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/cpp-tags.scm",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/csharp-tags.scm",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/go-tags.scm",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/java-tags.scm",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/javascript-tags.scm",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/python-tags.scm",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/rust-tags.scm",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-languages/README.md",
+    ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-languages/typescript-tags.scm",
+    ".agents/skills/respond-to-code-review/SKILL.md",
+    ".agents/skills/respond-to-code-review/references/bitbucket.md",
+    ".agents/skills/respond-to-code-review/references/github-setup.md",
+    ".agents/skills/respond-to-code-review/references/github.md",
+    ".agents/skills/respond-to-code-review/references/gitlab.md",
+    ".agents/skills/respond-to-code-review/references/review-bots.md",
+    ".agents/skills/write-adr/SKILL.md",
+    ".agents/skills/write-prd/SKILL.md",
+    ".claude/skills/cloudflare-safe/SKILL.md",
+    ".claude/skills/cloudflare-safe/references/auth-methods.md",
+    ".claude/skills/cloudflare-safe/references/change-file.md",
+    ".claude/skills/cloudflare-safe/references/setup.md",
+    ".claude/skills/cloudflare-safe/references/verified-bots.md",
+    ".claude/skills/create-design-system/SKILL.md",
+    ".claude/skills/create-design-system/references/setup.md",
+    ".claude/skills/java-junit/SKILL.md",
+    ".claude/skills/legacy-codebase-workflows/LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/NOTICE.txt",
+    ".claude/skills/legacy-codebase-workflows/SKILL.md",
+    ".claude/skills/legacy-codebase-workflows/THIRD_PARTY.md",
+    ".claude/skills/legacy-codebase-workflows/references/changes.md",
+    ".claude/skills/legacy-codebase-workflows/references/design-sources.md",
+    ".claude/skills/legacy-codebase-workflows/references/distribution.md",
+    ".claude/skills/legacy-codebase-workflows/references/investigation.md",
+    ".claude/skills/legacy-codebase-workflows/references/native-tooling.md",
+    ".claude/skills/legacy-codebase-workflows/references/private-retrieval.md",
+    ".claude/skills/legacy-codebase-workflows/references/repo-map.md",
+    ".claude/skills/legacy-codebase-workflows/references/repomix.md",
+    ".claude/skills/legacy-codebase-workflows/references/scale-and-intake.md",
+    ".claude/skills/legacy-codebase-workflows/references/setup.md",
+    ".claude/skills/legacy-codebase-workflows/references/workers.md",
+    ".claude/skills/legacy-codebase-workflows/requirements-map.txt",
+    ".claude/skills/legacy-codebase-workflows/scripts/requirements-retrieval.txt",
+    ".claude/skills/legacy-codebase-workflows/templates/repository-intake.md",
+    ".claude/skills/legacy-codebase-workflows/vendor/LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/c-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/cpp-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/csharp-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/go-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/java-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/javascript-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/python-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/rust-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/licenses/typescript-LICENSE.txt",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/README.md",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/c-tags.scm",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/cpp-tags.scm",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/csharp-tags.scm",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/go-tags.scm",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/java-tags.scm",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/javascript-tags.scm",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/python-tags.scm",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/rust-tags.scm",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-languages/README.md",
+    ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-languages/typescript-tags.scm",
+    ".claude/skills/respond-to-code-review/SKILL.md",
+    ".claude/skills/respond-to-code-review/references/bitbucket.md",
+    ".claude/skills/respond-to-code-review/references/github-setup.md",
+    ".claude/skills/respond-to-code-review/references/github.md",
+    ".claude/skills/respond-to-code-review/references/gitlab.md",
+    ".claude/skills/respond-to-code-review/references/review-bots.md",
+    ".claude/skills/write-adr/SKILL.md",
+    ".claude/skills/write-prd/SKILL.md",
+    ".settings/org.eclipse.core.resources.prefs",
+    ".settings/org.eclipse.jdt.core.prefs",
+    ".settings/org.eclipse.jdt.ui.prefs",
+    ".settings/org.eclipse.ltk.core.refactoring.prefs",
+    ".settings/org.eclipse.m2e.core.prefs",
+    ".settings/org.eclipse.wst.sse.core.prefs",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "LICENSE.txt",
+    "NOTICE.txt",
+    "README.md",
+    "assets/logo.svg",
+    "docs/AGENTS.md",
+    "docs/README.md",
+    "docs/analysis/legacy-codebase-workflows-first-use-review.md",
+    "docs/architecture-and-ui.md",
+    "docs/build-and-dependencies.md",
+    "docs/current-state-overview.md",
+    "docs/design-guidelines.md",
+    "docs/ftp-transfers-and-zip.md",
+    "docs/gui-components.md",
+    "docs/jftp-repomap.md",
+    "docs/preferences-and-user-data.md",
+    "docs/resources-localization-help.md",
+    "docs/security-and-ssl.md",
+    "docs/utilities-and-events.md",
+    "src/main/AGENTS.md",
+    "src/main/help/helpset/content/LICENSE.txt",
+    "src/main/help/helpset/content/connect/connectionDialog.html",
+    "src/main/help/helpset/content/connect/disconnect.html",
+    "src/main/help/helpset/content/connect/favorite.html",
+    "src/main/help/helpset/content/connect/index.html",
+    "src/main/help/helpset/content/connect/reconnect.html",
+    "src/main/help/helpset/content/credits.html",
+    "src/main/help/helpset/content/default.css",
+    "src/main/help/helpset/content/faq.html",
+    "src/main/help/helpset/content/favorites/add.html",
+    "src/main/help/helpset/content/favorites/connect.html",
+    "src/main/help/helpset/content/favorites/delete.html",
+    "src/main/help/helpset/content/favorites/edit.html",
+    "src/main/help/helpset/content/favorites/favoriteManager.html",
+    "src/main/help/helpset/content/favorites/index.html",
+    "src/main/help/helpset/content/feedback.html",
+    "src/main/help/helpset/content/index.html",
+    "src/main/help/helpset/content/introduction/features.html",
+    "src/main/help/helpset/content/introduction/index.html",
+    "src/main/help/helpset/content/introduction/uninstall.html",
+    "src/main/help/helpset/content/introduction/whatIsJFTP.html",
+    "src/main/help/helpset/content/keyboardShortcuts/index.html",
+    "src/main/help/helpset/content/local/browse.html",
+    "src/main/help/helpset/content/local/changeDirectory.html",
+    "src/main/help/helpset/content/local/clearFilter.html",
+    "src/main/help/helpset/content/local/delete.html",
+    "src/main/help/helpset/content/local/edit.html",
+    "src/main/help/helpset/content/local/email.html",
+    "src/main/help/helpset/content/local/filter.html",
+    "src/main/help/helpset/content/local/index.html",
+    "src/main/help/helpset/content/local/newDirectory.html",
+    "src/main/help/helpset/content/local/newFile.html",
+    "src/main/help/helpset/content/local/open.html",
+    "src/main/help/helpset/content/local/print.html",
+    "src/main/help/helpset/content/local/properties.html",
+    "src/main/help/helpset/content/local/refresh.html",
+    "src/main/help/helpset/content/local/rename.html",
+    "src/main/help/helpset/content/local/sort.html",
+    "src/main/help/helpset/content/preferences/connectionSettings.advanced.html",
+    "src/main/help/helpset/content/preferences/connectionSettings.general.html",
+    "src/main/help/helpset/content/preferences/connectionSettings.html",
+    "src/main/help/helpset/content/preferences/connectionSettings.proxy.html",
+    "src/main/help/helpset/content/preferences/connectionSettings.security.html",
+    "src/main/help/helpset/content/preferences/index.html",
+    "src/main/help/helpset/content/preferences/regionalSettings.html",
+    "src/main/help/helpset/content/preferences/softwareUpdates.html",
+    "src/main/help/helpset/content/preferences/transferModes.html",
+    "src/main/help/helpset/content/preferences/userInterface.html",
+    "src/main/help/helpset/content/remote/browse.html",
+    "src/main/help/helpset/content/remote/changeDirectory.html",
+    "src/main/help/helpset/content/remote/clearFilter.html",
+    "src/main/help/helpset/content/remote/delete.html",
+    "src/main/help/helpset/content/remote/edit.html",
+    "src/main/help/helpset/content/remote/email.html",
+    "src/main/help/helpset/content/remote/executeCommands.html",
+    "src/main/help/helpset/content/remote/filter.html",
+    "src/main/help/helpset/content/remote/index.html",
+    "src/main/help/helpset/content/remote/newDirectory.html",
+    "src/main/help/helpset/content/remote/newFile.html",
+    "src/main/help/helpset/content/remote/open.html",
+    "src/main/help/helpset/content/remote/print.html",
+    "src/main/help/helpset/content/remote/properties.html",
+    "src/main/help/helpset/content/remote/refresh.html",
+    "src/main/help/helpset/content/remote/rename.html",
+    "src/main/help/helpset/content/remote/sort.html",
+    "src/main/help/helpset/content/security/certificatesManager.html",
+    "src/main/help/helpset/content/security/deleteCertificates.html",
+    "src/main/help/helpset/content/security/importCertificates.html",
+    "src/main/help/helpset/content/security/index.html",
+    "src/main/help/helpset/content/security/installCertificate.html",
+    "src/main/help/helpset/content/security/introduction.html",
+    "src/main/help/helpset/content/security/sslConnection.html",
+    "src/main/help/helpset/content/security/viewCertificate.html",
+    "src/main/help/helpset/content/sessions/activate.html",
+    "src/main/help/helpset/content/sessions/close.html",
+    "src/main/help/helpset/content/sessions/index.html",
+    "src/main/help/helpset/content/sessions/open.html",
+    "src/main/help/helpset/content/support.html",
+    "src/main/help/helpset/content/tips.html",
+    "src/main/help/helpset/content/transfer/abort.html",
+    "src/main/help/helpset/content/transfer/download.html",
+    "src/main/help/helpset/content/transfer/downloadAndUnzip.html",
+    "src/main/help/helpset/content/transfer/downloadAs.html",
+    "src/main/help/helpset/content/transfer/index.html",
+    "src/main/help/helpset/content/transfer/transferModes.html",
+    "src/main/help/helpset/content/transfer/upload.html",
+    "src/main/help/helpset/content/transfer/uploadAs.html",
+    "src/main/help/helpset/content/transfer/zipAndUpload.html",
+    "src/main/help/helpset/content/userInterface/index.html",
+    "src/main/help/helpset/content/userInterface/localPane.html",
+    "src/main/help/helpset/content/userInterface/logPane.html",
+    "src/main/help/helpset/content/userInterface/mainWindow.html",
+    "src/main/help/helpset/content/userInterface/menuBar.html",
+    "src/main/help/helpset/content/userInterface/remotePane.html",
+    "src/main/help/helpset/content/userInterface/sessionTabs.html",
+    "src/main/help/helpset/content/userInterface/statusBar.html",
+    "src/main/help/helpset/content/userInterface/toolBar.html",
+    "src/main/help/helpset/favorites_2_0.dtd",
+    "src/main/help/helpset/helpset_2_0.dtd",
+    "src/main/help/helpset/index_2_0.dtd",
+    "src/main/help/helpset/map_2_0.dtd",
+    "src/main/help/helpset/toc_2_0.dtd",
+    "src/main/java/com/myjavaworld/gui/AGENTS.md",
+    "src/main/java/com/myjavaworld/jftp/AGENTS.md",
+    "src/main/java/com/myjavaworld/jftp/actions/AGENTS.md",
+    "src/main/java/com/myjavaworld/jftp/ssl/AGENTS.md",
+    "src/main/java/com/myjavaworld/util/AGENTS.md",
+    "src/main/java/com/myjavaworld/zip/AGENTS.md",
+    "src/main/scripts/jftp.bat",
+    "src/main/scripts/jftp.sh"
+  ],
+  "version": "1.1.0",
+  "working_copy_fingerprint": "fb98a3fa4c4dc634ddbcd33bfb7a5ce2126763a3abc7f15409e5c7650061bcbe"
+}

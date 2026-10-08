@@ -13,6 +13,18 @@
       "skillPath": "skills/create-design-system/SKILL.md",
       "computedHash": "0c0916611d20ad459de56d28506326e3b4df7e06bda01133e9517d80b8b4a31c"
     },
+    "java-junit": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/java-junit/SKILL.md",
+      "computedHash": "fbf3cb0d47ffb44bdb6e1ebcc4d89dd7083208efdfc5b88f316c8bc2b58250b5"
+    },
+    "legacy-codebase-workflows": {
+      "source": "EdukeyTeam/agent-toolbox",
+      "sourceType": "github",
+      "skillPath": "skills/legacy-codebase-workflows/SKILL.md",
+      "computedHash": "70084aeb89386b0220ee95e501058e6c8e77bb87cb2e0ee08a91fddffc9aefe0"
+    },
     "respond-to-code-review": {
       "source": "EdukeyTeam/agent-toolbox",
       "sourceType": "github",

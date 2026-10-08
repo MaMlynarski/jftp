@@ -1,0 +1,10 @@
+// Example generic MPC configutation file for Context7. You can use this as a template to create your own mpc.json file.
+
+//{
+//  "mcpServers": {
+//    "Context7": {
+//      "command": "npx",
+//      "args": ["-y", "@upstash/context7-mcp", "--api-key", "YOUR_API_KEY"]
+//    }
+//  }
+//}

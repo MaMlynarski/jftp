@@ -1,28 +1,3 @@
-# Repository map export
-
-- Implementation: python
-- Examined source: "C:\\j2ee\\GIT\\jftp-fork"
-- Examined revision: "c3182280a6c74049b9f926e53c7b381ecdc74f8c"; dirty working copy: True
-- Candidates seen: 776
-- Files selected / parsed: 632 / 218
-- Definitions found / selected: 1954 / 1954
-- Captured definitions omitted: 0
-- Selection mode / rendering: ranked / grouped
-- Declaration snippets clipped: 0
-- Map budget: 65536 estimated tokens
-- Truncated: no; exclusions, unsupported files and parse failures still limit coverage
-- Skipped entries / parse failures: 144 / 0
-- Original generation wall time: 9.31278 seconds (measured subprocess wall time)
-- Raw content: 139216 Unicode characters, 139216 UTF-8 bytes, approximately 34804 tokens
-- Whole annotated report: approximately 35151 tokens
-- Token estimator: ceil(Unicode characters / 4); a size estimate, not a model tokenizer
-- Raw map SHA-256: d5774482c628e445d92a38f9ba89b933b7a520aaf9ce2f69e56f4455e241ff0d
-- Evidence sidecars: "RepoMix/Artefact/jftp-repomap/jftp-repomap.raw.md", "RepoMix/Artefact/jftp-repomap/jftp-repomap.meta.json", "RepoMix/Artefact/jftp-repomap/jftp-repomap.inventory.json"
-
-Generation status `complete` means the selected map was published, not that every repository file or relationship was analyzed. Read the sidecars for scope, skips, parser failures and the original working-copy fingerprint.
-
----
-
 # Repository map
 
 ## .agents/skills/cloudflare-safe/scripts/cf-apply.mjs
@@ -5143,3 +5118,4 @@ L25: 	public void beginFile(ZipEvent evt);
   ...
 L27: 	public void endFile(ZipEvent evt);
 ```
+

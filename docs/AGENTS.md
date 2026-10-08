@@ -13,6 +13,7 @@ Open and update documentation by trigger:
 - `docs/security-and-ssl.md` — when TLS, trust decisions, certificate stores, or extraction security changes.
 - `docs/gui-components.md` — when custom Swing component or worker contracts change.
 - `docs/utilities-and-events.md` — when shared helpers, events, or file monitoring change.
-- `docs/jftp-repomap.md` — for generated source-symbol navigation; regenerate after significant source-structure changes, and do not use as a behavior specification.
+- `docs/jftp-repomap.md` — for compact source-symbol navigation; regenerate after significant source-structure changes, and do not use as a behavior specification.
+- `docs/RepoMix/README.md` — when choosing or refreshing the full/compressed source packs; keep helper scripts and Repo Map sidecars under `docs/RepoMix/Artefact/`.
 
 Update `docs/README.md` when adding, renaming, or removing a guide. Do not claim tests, builds, packaging, or manual QA passed unless they actually ran.

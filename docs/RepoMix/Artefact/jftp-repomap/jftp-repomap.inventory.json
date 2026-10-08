@@ -1,0 +1,5017 @@
+{
+  "dirty": true,
+  "files": [
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/java-junit/SKILL.md",
+      "sha256": "beeae246a2b1a8debffb53b005eba0e025f70923fa26a11f3c4bfefd99388fa3",
+      "size": 2981
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/LICENSE.txt",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+      "size": 11560
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/NOTICE.txt",
+      "sha256": "9b0778f09518561296d4eac2c34dc075ef28e61886ea5f4c1f877c74a3a23016",
+      "size": 463
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/SKILL.md",
+      "sha256": "01b47c10087dd5ac3892299e56d4fc6a860c6a212e36b75d8d082cbf342e8d8a",
+      "size": 9601
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/THIRD_PARTY.md",
+      "sha256": "b986e12e478cb1d1c06c8e76be422fdf787678a3a9ad6591c5dea50a661ae518",
+      "size": 6540
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/changes.md",
+      "sha256": "397628983035147fdbd2d4e0cc95a5380f8e33a9c52c2c48d5ac3e4d80ea8a95",
+      "size": 2428
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/design-sources.md",
+      "sha256": "522d6c213b4038ccd0a3fca9824068630090270883c44bf0ee0d9dd9a194d4a6",
+      "size": 2413
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/distribution.md",
+      "sha256": "68bf989b2fb0a85734de239c9277a22da14511e00e1329572492c69e4a570e54",
+      "size": 10331
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/investigation.md",
+      "sha256": "71ad4d6bd4823b94b4db140f2ea7aadc880fc5cb9d5e95f01eb3361be0c44cf7",
+      "size": 3011
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/native-tooling.md",
+      "sha256": "a9eb28f4db8e36d6c5f478aec3b0966d28b61cc508fa732361e5de31a2b60a2a",
+      "size": 13730
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/private-retrieval.md",
+      "sha256": "937697ca09a9c876b19ad1ef4a386238155d1925ea994a5284a3b2c4812be0ab",
+      "size": 18770
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/repo-map.md",
+      "sha256": "9417ff5d18c4ca4ef68330aa4c260b0751a8383df5f2ef98a60472a4fd4bfc67",
+      "size": 17708
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/repomix.md",
+      "sha256": "a54cd1f603e211363d587eaa31e76b69e39ebad5732e6a3888a89c3c161c3e47",
+      "size": 2949
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/scale-and-intake.md",
+      "sha256": "c025d31b4bfd194d8a0527ed69f28a7c0aa1d26fc788f2a25fe82f98949da2a4",
+      "size": 10993
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/setup.md",
+      "sha256": "676e7a03e1a3d7076ca0d05db4cd52f8d6aea4167764bd68d303c720d0a699ee",
+      "size": 15544
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/references/workers.md",
+      "sha256": "4bdfe5896c7474b14a9e909936384a4f02e205015d3b88ffad0632a30be5d273",
+      "size": 2730
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/requirements-map.txt",
+      "sha256": "0d7ba700f013570bc3e235b9a0a44096e9dc011b3258e52ffce734be012dbe39",
+      "size": 341
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/check_citations.py",
+      "sha256": "4db1527aa872f1fc5b029b9f4ab6a466c095b78ed86c8bac4bd689c9a79dd0ef",
+      "size": 3239
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/context7_backend.py",
+      "sha256": "c449a0605f7815e112d95fc58c5a5ff7f9d9251c4e8207ee55e5fb96513ca6e9",
+      "size": 55786
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/export_repo_map.py",
+      "sha256": "a3e0ff47f31643ce3d1c85f83744e30012e2c98d1fec4b107ad60380f79bdb65",
+      "size": 17377
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/legacy_common.py",
+      "sha256": "e9248978ed882953c53da266e1c368d789ec87725f4fe7c31423484c01ab19f0",
+      "size": 597
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/legacy_tools.py",
+      "sha256": "8b50b05f274701c4ad571b7105ec86400757812e2425c33df252634dd87d563e",
+      "size": 4268
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/repo_files.py",
+      "sha256": "7e11a6edf1110e27b03996c3767f4117c2c1eca3588db4140e0ba7019d17c379",
+      "size": 17379
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/repo_map.py",
+      "sha256": "c9969b301e2532d9fbead58d94b074d2e69a4cbc05cf846098cc7410033866b2",
+      "size": 21748
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/repo_render.py",
+      "sha256": "b8e507f7cb6b332c04192aa37059c550a6d9cdb7568f679b679be98882a16b2a",
+      "size": 24161
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/requirements-retrieval.txt",
+      "sha256": "80bb1554242a6697028074686290d3bc8c5f1a9c9c84908207609530149fa9f1",
+      "size": 910
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/retrieval/embed.mjs",
+      "sha256": "f832ccc08f57a55ffa2bf478dd6b75fe6bf42e4c04200de6e503271049347e8d",
+      "size": 1607
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/retrieval/package.json",
+      "sha256": "bf96b0d646586c0a45bd5b9934a8bb1f8ee0de7020b2cc6039686e23c21acc24",
+      "size": 115
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/retrieval/pnpm-lock.yaml",
+      "sha256": "91e8911fbaedc7c0baf433d8463d5e0a0c6b34e9d93a8f9ddf6fd64d77f36f80",
+      "size": 22408
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/retrieval/pnpm-workspace.yaml",
+      "sha256": "6f67e559dd3c9c2a66607f36200a11972b0175e2532af1b0fe0517538a994bf7",
+      "size": 78
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/retrieval/rerank.mjs",
+      "sha256": "721d0666b68dca196efb4e0cdb2a9f5738838e2cc13c448cf5f9f5c6c6a312f2",
+      "size": 3380
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/scripts/setup_native.py",
+      "sha256": "d397b749a50fe81f467ed24478f0d5ee63c90acf99a9a069362173fe028e1484",
+      "size": 28926
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/templates/repository-intake.md",
+      "sha256": "41d34292271e483633be882cbf8a6e06645cf5a4dff73de41ee7394112ad045f",
+      "size": 1846
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/tool-distribution.json",
+      "sha256": "8b9ab3f7afcaaa7d9baf6721639f9e963f9c78403bc0b81fb9dfb34487225f5d",
+      "size": 982
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/LICENSE.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size": 11358
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/aider_rank.py",
+      "sha256": "c1069217acd10cbb2fcc45bdaee8f9110832d0c237032053dd32bf3cb6deb2a0",
+      "size": 4809
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/c-LICENSE.txt",
+      "sha256": "2e0110e07abef7c2548b26ec9d6969775617ca539a0dc8dbeeb14d6452c711d1",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/cpp-LICENSE.txt",
+      "sha256": "2e0110e07abef7c2548b26ec9d6969775617ca539a0dc8dbeeb14d6452c711d1",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/csharp-LICENSE.txt",
+      "sha256": "778fb7d63b8c1844da315648c02f325c4713a6f4a5d19644fd413421422776d3",
+      "size": 1133
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/go-LICENSE.txt",
+      "sha256": "2e0110e07abef7c2548b26ec9d6969775617ca539a0dc8dbeeb14d6452c711d1",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/java-LICENSE.txt",
+      "sha256": "52ed137b039cd9c46409bc22e89938af911c95b157feae2d040b51e6084369a7",
+      "size": 1069
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/javascript-LICENSE.txt",
+      "sha256": "2e0110e07abef7c2548b26ec9d6969775617ca539a0dc8dbeeb14d6452c711d1",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/python-LICENSE.txt",
+      "sha256": "d724405ce238a22c0d35769c5a36b386ad5958192efe8bbb304fb2896254575f",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/rust-LICENSE.txt",
+      "sha256": "31d5b6f4243d5c7c6e1c4ebbbb9f6407bd1457a08bcc4f706521710341acba36",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/licenses/typescript-LICENSE.txt",
+      "sha256": "49bf33cf78ef5897e4e161ce1517df7de1ae5042a65b6bcfd44401e0fc606559",
+      "size": 1080
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/manifest.json",
+      "sha256": "b73dc7c05d34f060de54b1de53918d5bd44f9dad4bfcbb2437ad5acb89f465f1",
+      "size": 10459
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/README.md",
+      "sha256": "8af65212e5aa61f5152d99760196464659b46d0b1a1be55304a070002c8cd3b9",
+      "size": 291
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/c-tags.scm",
+      "sha256": "108cf8e68e61061f3212e724e5947fe08a5c1b259278daf3c459ad90a646b769",
+      "size": 461
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/cpp-tags.scm",
+      "sha256": "d9f4aa4d471cd35001307900d09786f1ac443845d17c422e97c50a73dfed2862",
+      "size": 809
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/csharp-tags.scm",
+      "sha256": "28e45f2b77a12a8afa3dfe93e629e2ba842bd7a11c1ed51ed2add722c0a33c9b",
+      "size": 1162
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/go-tags.scm",
+      "sha256": "4c4e1f43b3ed42f1ca3deb6b847783aa3333d35285285b31163ca99c932ff292",
+      "size": 1339
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/java-tags.scm",
+      "sha256": "5e277c72738f2f5bf948eb717eaf1d3a2f7c6d6ad43cbed778ef3f236a81adf1",
+      "size": 624
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/javascript-tags.scm",
+      "sha256": "d2a9592300ddb2fa0418cd1c603decd9ecf6ec56d8bb3f1ea59028f9c2cfd6e2",
+      "size": 2306
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/python-tags.scm",
+      "sha256": "2830ab33b89a5305d9fe16f6c151eb136fc4542abf012a37f8199bcec2ed164d",
+      "size": 437
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/rust-tags.scm",
+      "sha256": "debcf55ea29a38f28f59150d3d35b9397fd36040e3e6d4197ccc411f710c07a8",
+      "size": 1451
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-languages/README.md",
+      "sha256": "0af1ee868ab46d83ae21face42d07e0a213aaa13e11201cc4bf8f1efa09c419a",
+      "size": 2610
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-languages/typescript-tags.scm",
+      "sha256": "38c74279e74f880db8932f360e981330a5cafe5db2493b85db3ad0d9f2408bd1",
+      "size": 1253
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/java-junit/SKILL.md",
+      "sha256": "beeae246a2b1a8debffb53b005eba0e025f70923fa26a11f3c4bfefd99388fa3",
+      "size": 2981
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/LICENSE.txt",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+      "size": 11560
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/NOTICE.txt",
+      "sha256": "9b0778f09518561296d4eac2c34dc075ef28e61886ea5f4c1f877c74a3a23016",
+      "size": 463
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/SKILL.md",
+      "sha256": "01b47c10087dd5ac3892299e56d4fc6a860c6a212e36b75d8d082cbf342e8d8a",
+      "size": 9601
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/THIRD_PARTY.md",
+      "sha256": "b986e12e478cb1d1c06c8e76be422fdf787678a3a9ad6591c5dea50a661ae518",
+      "size": 6540
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/changes.md",
+      "sha256": "397628983035147fdbd2d4e0cc95a5380f8e33a9c52c2c48d5ac3e4d80ea8a95",
+      "size": 2428
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/design-sources.md",
+      "sha256": "522d6c213b4038ccd0a3fca9824068630090270883c44bf0ee0d9dd9a194d4a6",
+      "size": 2413
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/distribution.md",
+      "sha256": "68bf989b2fb0a85734de239c9277a22da14511e00e1329572492c69e4a570e54",
+      "size": 10331
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/investigation.md",
+      "sha256": "71ad4d6bd4823b94b4db140f2ea7aadc880fc5cb9d5e95f01eb3361be0c44cf7",
+      "size": 3011
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/native-tooling.md",
+      "sha256": "a9eb28f4db8e36d6c5f478aec3b0966d28b61cc508fa732361e5de31a2b60a2a",
+      "size": 13730
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/private-retrieval.md",
+      "sha256": "937697ca09a9c876b19ad1ef4a386238155d1925ea994a5284a3b2c4812be0ab",
+      "size": 18770
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/repo-map.md",
+      "sha256": "9417ff5d18c4ca4ef68330aa4c260b0751a8383df5f2ef98a60472a4fd4bfc67",
+      "size": 17708
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/repomix.md",
+      "sha256": "a54cd1f603e211363d587eaa31e76b69e39ebad5732e6a3888a89c3c161c3e47",
+      "size": 2949
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/scale-and-intake.md",
+      "sha256": "c025d31b4bfd194d8a0527ed69f28a7c0aa1d26fc788f2a25fe82f98949da2a4",
+      "size": 10993
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/setup.md",
+      "sha256": "676e7a03e1a3d7076ca0d05db4cd52f8d6aea4167764bd68d303c720d0a699ee",
+      "size": 15544
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/references/workers.md",
+      "sha256": "4bdfe5896c7474b14a9e909936384a4f02e205015d3b88ffad0632a30be5d273",
+      "size": 2730
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/requirements-map.txt",
+      "sha256": "0d7ba700f013570bc3e235b9a0a44096e9dc011b3258e52ffce734be012dbe39",
+      "size": 341
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/check_citations.py",
+      "sha256": "4db1527aa872f1fc5b029b9f4ab6a466c095b78ed86c8bac4bd689c9a79dd0ef",
+      "size": 3239
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/context7_backend.py",
+      "sha256": "c449a0605f7815e112d95fc58c5a5ff7f9d9251c4e8207ee55e5fb96513ca6e9",
+      "size": 55786
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/export_repo_map.py",
+      "sha256": "a3e0ff47f31643ce3d1c85f83744e30012e2c98d1fec4b107ad60380f79bdb65",
+      "size": 17377
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/legacy_common.py",
+      "sha256": "e9248978ed882953c53da266e1c368d789ec87725f4fe7c31423484c01ab19f0",
+      "size": 597
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/legacy_tools.py",
+      "sha256": "8b50b05f274701c4ad571b7105ec86400757812e2425c33df252634dd87d563e",
+      "size": 4268
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/repo_files.py",
+      "sha256": "7e11a6edf1110e27b03996c3767f4117c2c1eca3588db4140e0ba7019d17c379",
+      "size": 17379
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/repo_map.py",
+      "sha256": "c9969b301e2532d9fbead58d94b074d2e69a4cbc05cf846098cc7410033866b2",
+      "size": 21748
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/repo_render.py",
+      "sha256": "b8e507f7cb6b332c04192aa37059c550a6d9cdb7568f679b679be98882a16b2a",
+      "size": 24161
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/requirements-retrieval.txt",
+      "sha256": "80bb1554242a6697028074686290d3bc8c5f1a9c9c84908207609530149fa9f1",
+      "size": 910
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/retrieval/embed.mjs",
+      "sha256": "f832ccc08f57a55ffa2bf478dd6b75fe6bf42e4c04200de6e503271049347e8d",
+      "size": 1607
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/retrieval/package.json",
+      "sha256": "bf96b0d646586c0a45bd5b9934a8bb1f8ee0de7020b2cc6039686e23c21acc24",
+      "size": 115
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/retrieval/pnpm-lock.yaml",
+      "sha256": "91e8911fbaedc7c0baf433d8463d5e0a0c6b34e9d93a8f9ddf6fd64d77f36f80",
+      "size": 22408
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/retrieval/pnpm-workspace.yaml",
+      "sha256": "6f67e559dd3c9c2a66607f36200a11972b0175e2532af1b0fe0517538a994bf7",
+      "size": 78
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/retrieval/rerank.mjs",
+      "sha256": "721d0666b68dca196efb4e0cdb2a9f5738838e2cc13c448cf5f9f5c6c6a312f2",
+      "size": 3380
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/scripts/setup_native.py",
+      "sha256": "d397b749a50fe81f467ed24478f0d5ee63c90acf99a9a069362173fe028e1484",
+      "size": 28926
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/templates/repository-intake.md",
+      "sha256": "41d34292271e483633be882cbf8a6e06645cf5a4dff73de41ee7394112ad045f",
+      "size": 1846
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/tool-distribution.json",
+      "sha256": "8b9ab3f7afcaaa7d9baf6721639f9e963f9c78403bc0b81fb9dfb34487225f5d",
+      "size": 982
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/LICENSE.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size": 11358
+    },
+    {
+      "kind": "source",
+      "language": "python",
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/aider_rank.py",
+      "sha256": "c1069217acd10cbb2fcc45bdaee8f9110832d0c237032053dd32bf3cb6deb2a0",
+      "size": 4809
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/c-LICENSE.txt",
+      "sha256": "2e0110e07abef7c2548b26ec9d6969775617ca539a0dc8dbeeb14d6452c711d1",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/cpp-LICENSE.txt",
+      "sha256": "2e0110e07abef7c2548b26ec9d6969775617ca539a0dc8dbeeb14d6452c711d1",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/csharp-LICENSE.txt",
+      "sha256": "778fb7d63b8c1844da315648c02f325c4713a6f4a5d19644fd413421422776d3",
+      "size": 1133
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/go-LICENSE.txt",
+      "sha256": "2e0110e07abef7c2548b26ec9d6969775617ca539a0dc8dbeeb14d6452c711d1",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/java-LICENSE.txt",
+      "sha256": "52ed137b039cd9c46409bc22e89938af911c95b157feae2d040b51e6084369a7",
+      "size": 1069
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/javascript-LICENSE.txt",
+      "sha256": "2e0110e07abef7c2548b26ec9d6969775617ca539a0dc8dbeeb14d6452c711d1",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/python-LICENSE.txt",
+      "sha256": "d724405ce238a22c0d35769c5a36b386ad5958192efe8bbb304fb2896254575f",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/rust-LICENSE.txt",
+      "sha256": "31d5b6f4243d5c7c6e1c4ebbbb9f6407bd1457a08bcc4f706521710341acba36",
+      "size": 1080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/licenses/typescript-LICENSE.txt",
+      "sha256": "49bf33cf78ef5897e4e161ce1517df7de1ae5042a65b6bcfd44401e0fc606559",
+      "size": 1080
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/manifest.json",
+      "sha256": "b73dc7c05d34f060de54b1de53918d5bd44f9dad4bfcbb2437ad5acb89f465f1",
+      "size": 10459
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/README.md",
+      "sha256": "8af65212e5aa61f5152d99760196464659b46d0b1a1be55304a070002c8cd3b9",
+      "size": 291
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/c-tags.scm",
+      "sha256": "108cf8e68e61061f3212e724e5947fe08a5c1b259278daf3c459ad90a646b769",
+      "size": 461
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/cpp-tags.scm",
+      "sha256": "d9f4aa4d471cd35001307900d09786f1ac443845d17c422e97c50a73dfed2862",
+      "size": 809
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/csharp-tags.scm",
+      "sha256": "28e45f2b77a12a8afa3dfe93e629e2ba842bd7a11c1ed51ed2add722c0a33c9b",
+      "size": 1162
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/go-tags.scm",
+      "sha256": "4c4e1f43b3ed42f1ca3deb6b847783aa3333d35285285b31163ca99c932ff292",
+      "size": 1339
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/java-tags.scm",
+      "sha256": "5e277c72738f2f5bf948eb717eaf1d3a2f7c6d6ad43cbed778ef3f236a81adf1",
+      "size": 624
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/javascript-tags.scm",
+      "sha256": "d2a9592300ddb2fa0418cd1c603decd9ecf6ec56d8bb3f1ea59028f9c2cfd6e2",
+      "size": 2306
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/python-tags.scm",
+      "sha256": "2830ab33b89a5305d9fe16f6c151eb136fc4542abf012a37f8199bcec2ed164d",
+      "size": 437
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-language-pack/rust-tags.scm",
+      "sha256": "debcf55ea29a38f28f59150d3d35b9397fd36040e3e6d4197ccc411f710c07a8",
+      "size": 1451
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-languages/README.md",
+      "sha256": "0af1ee868ab46d83ae21face42d07e0a213aaa13e11201cc4bf8f1efa09c419a",
+      "size": 2610
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/legacy-codebase-workflows/vendor/queries/tree-sitter-languages/typescript-tags.scm",
+      "sha256": "38c74279e74f880db8932f360e981330a5cafe5db2493b85db3ad0d9f2408bd1",
+      "size": 1253
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "assets/design-tokens.json",
+      "sha256": "3d0826f2cac49c68c27e69b0afdab4f6aba4c5c187045a1793e35d6214b3b193",
+      "size": 2055
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "assets/logo.svg",
+      "sha256": "fc5a29e3632fce363091e52b81118d4ccfe1ab7c2ab77f5f58083c8df135ca86",
+      "size": 8733
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/analysis/legacy-codebase-workflows-first-use-review.md",
+      "sha256": "5a137c7aec00f82c6b38506efe7e9c588e1ce731297c1c88312dcb9203680071",
+      "size": 9763
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/design-guidelines.md",
+      "sha256": "9b59de210b9a1a8941bd3b7460409d5ca3115c5e6d0c194555b985912cf1dcd4",
+      "size": 6170
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/agents-file-guidelines/SKILL.md",
+      "sha256": "d487fb71f3a66b90f07a15834974e5a62390b0ba42c3cdb790dec6b1765e19cc",
+      "size": 5540
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".agents/skills/agents-file-guidelines/agents/openai.yaml",
+      "sha256": "60107dc001b676557bedaff72bee3482778f002ee9d90c70101d5f69c2ddf604",
+      "size": 289
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/agents-file-guidelines/assets/AGENTS.desktop.template.md",
+      "sha256": "c2ab860f6aba628605d64e56db4c09af1a20e092e45491fe678b80b41af5cf72",
+      "size": 5241
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/agents-file-guidelines/assets/AGENTS.web.template.md",
+      "sha256": "9164739846009cc6803fdc4fd16096544f53e2a1bc08c7ec3b32df6d57dacd9d",
+      "size": 4844
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/agents-file-guidelines/references/desktop-workflow.md",
+      "sha256": "7b39593dbd4cd0d71102cf47326bcb4fa9ee04e522bc16d2b6d5ef8ce31a6d31",
+      "size": 2590
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/agents-file-guidelines/references/web-workflow.md",
+      "sha256": "73e6272bde8d6d9d7419ef13f606fdccf11d1d84780d2c3e57fceebb2f6cc011",
+      "size": 2453
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/cloudflare-safe/SKILL.md",
+      "sha256": "d1574ea757a2251306966bf6dce69e2c2bda7ad75fef8ec38bed175b11e1d6bd",
+      "size": 7377
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/cloudflare-safe/references/auth-methods.md",
+      "sha256": "6e1513d699c840221d305a67f2f9ba2b835e8ecb22d92316b50e8a22260a935b",
+      "size": 2018
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/cloudflare-safe/references/change-file.md",
+      "sha256": "8f92cc3aef7a0ff6e827653a539e7da26bf9694bc46c6f3e3ff69e4cda3456f9",
+      "size": 4327
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/cloudflare-safe/references/setup.md",
+      "sha256": "627a7cdb9b9b7250b91129a41410566af133df3562325014aab284feccb88e98",
+      "size": 3814
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/cloudflare-safe/references/verified-bots.md",
+      "sha256": "d4ccaa5b72524c17089f2b26a68a01367acbf1445e45a07749c45f6b6f284547",
+      "size": 3555
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".agents/skills/cloudflare-safe/scripts/cf-apply.mjs",
+      "sha256": "5589eafbcc5bb5d4bbafaaa130eb83abc410c99271b8c758aea637d34104c907",
+      "size": 11506
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".agents/skills/cloudflare-safe/scripts/cf-read.mjs",
+      "sha256": "524b939c989d9c7166d330f1bd0ae3f0324fb7d99fe0b07c7123e26bb9e91914",
+      "size": 3260
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".agents/skills/cloudflare-safe/scripts/lib.mjs",
+      "sha256": "f89225b4664826eef90ac831c5d18fa86c712e3e9cd1c25f75ac900ef8d0d7e5",
+      "size": 6259
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".agents/skills/cloudflare-safe/scripts/setup-tokens.mjs",
+      "sha256": "7e6d9138d9e5cabe9c0ad1cb210a81e68cff3e8464cc81cab5596835703453a5",
+      "size": 6269
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/create-design-system/SKILL.md",
+      "sha256": "81117aeb2c9a3027ee610d77b3c0434c93cea8f830606c2f83d3e3500c6765b6",
+      "size": 21227
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/create-design-system/references/setup.md",
+      "sha256": "197fb9f6609371720a6ae28e9d92eff99d1449d3bc6f46fb9228d02ee0937389",
+      "size": 2023
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".agents/skills/create-design-system/scripts/decode-binary-assets.cjs",
+      "sha256": "1f438e91aa6a461938dd7000bacce76068da3c0b3daeadfa91f68c5dca2addd9",
+      "size": 6488
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".agents/skills/create-design-system/scripts/fetch-binary-assets.browser.js",
+      "sha256": "2d7122425f4918c0f06fa3bdd6584d362225260be98202fa13e86cf0fb6597dc",
+      "size": 4670
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/respond-to-code-review/SKILL.md",
+      "sha256": "2fe953c238b04d287d08d80250415facb29fd5be0e4dc918d314a6ccd4dd3292",
+      "size": 4505
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/respond-to-code-review/references/bitbucket.md",
+      "sha256": "b45aa9a55ef64c0f19a1d948f987c2234d33eb0db260e36f34be231ac1120b47",
+      "size": 1573
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/respond-to-code-review/references/github-setup.md",
+      "sha256": "5addfacf87067b93c7768dafa1b06e269eb9d92e738b79a07e806d4d19f75343",
+      "size": 1693
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/respond-to-code-review/references/github.md",
+      "sha256": "bb8c3d5238b61479f8fa2e619213ae86b7d9e0fb7b6e2915a804c5365043efd4",
+      "size": 3165
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/respond-to-code-review/references/gitlab.md",
+      "sha256": "e2c85d37f4a1115ff42b64754716472da5c929be79938e4ad3dc9060c015ab4c",
+      "size": 937
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/respond-to-code-review/references/review-bots.md",
+      "sha256": "1cc01a6b370c2333a97df0e69bd367759ba7f3d702fb554856bc22599304a69b",
+      "size": 2576
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/write-adr/SKILL.md",
+      "sha256": "28c9c3ad7ee78ab04413a597c36f6a4c64aebe5cd8357be9480aec14390e765e",
+      "size": 11335
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".agents/skills/write-prd/SKILL.md",
+      "sha256": "fcc3aeb4edf7e9aec5e3814eb5e5dddf3a8d42b2e8b980312b2318306385d618",
+      "size": 7100
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".classpath",
+      "sha256": "ae953f7695b0412d6a0c5e96a4bafa5a1a82f47012553582eccb2ba131ea4983",
+      "size": 1090
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/cloudflare-safe/SKILL.md",
+      "sha256": "d1574ea757a2251306966bf6dce69e2c2bda7ad75fef8ec38bed175b11e1d6bd",
+      "size": 7377
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/cloudflare-safe/references/auth-methods.md",
+      "sha256": "6e1513d699c840221d305a67f2f9ba2b835e8ecb22d92316b50e8a22260a935b",
+      "size": 2018
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/cloudflare-safe/references/change-file.md",
+      "sha256": "8f92cc3aef7a0ff6e827653a539e7da26bf9694bc46c6f3e3ff69e4cda3456f9",
+      "size": 4327
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/cloudflare-safe/references/setup.md",
+      "sha256": "627a7cdb9b9b7250b91129a41410566af133df3562325014aab284feccb88e98",
+      "size": 3814
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/cloudflare-safe/references/verified-bots.md",
+      "sha256": "d4ccaa5b72524c17089f2b26a68a01367acbf1445e45a07749c45f6b6f284547",
+      "size": 3555
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".claude/skills/cloudflare-safe/scripts/cf-apply.mjs",
+      "sha256": "5589eafbcc5bb5d4bbafaaa130eb83abc410c99271b8c758aea637d34104c907",
+      "size": 11506
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".claude/skills/cloudflare-safe/scripts/cf-read.mjs",
+      "sha256": "524b939c989d9c7166d330f1bd0ae3f0324fb7d99fe0b07c7123e26bb9e91914",
+      "size": 3260
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".claude/skills/cloudflare-safe/scripts/lib.mjs",
+      "sha256": "f89225b4664826eef90ac831c5d18fa86c712e3e9cd1c25f75ac900ef8d0d7e5",
+      "size": 6259
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".claude/skills/cloudflare-safe/scripts/setup-tokens.mjs",
+      "sha256": "7e6d9138d9e5cabe9c0ad1cb210a81e68cff3e8464cc81cab5596835703453a5",
+      "size": 6269
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/create-design-system/SKILL.md",
+      "sha256": "81117aeb2c9a3027ee610d77b3c0434c93cea8f830606c2f83d3e3500c6765b6",
+      "size": 21227
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/create-design-system/references/setup.md",
+      "sha256": "197fb9f6609371720a6ae28e9d92eff99d1449d3bc6f46fb9228d02ee0937389",
+      "size": 2023
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".claude/skills/create-design-system/scripts/decode-binary-assets.cjs",
+      "sha256": "1f438e91aa6a461938dd7000bacce76068da3c0b3daeadfa91f68c5dca2addd9",
+      "size": 6488
+    },
+    {
+      "kind": "source",
+      "language": "javascript",
+      "path": ".claude/skills/create-design-system/scripts/fetch-binary-assets.browser.js",
+      "sha256": "2d7122425f4918c0f06fa3bdd6584d362225260be98202fa13e86cf0fb6597dc",
+      "size": 4670
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/respond-to-code-review/SKILL.md",
+      "sha256": "2fe953c238b04d287d08d80250415facb29fd5be0e4dc918d314a6ccd4dd3292",
+      "size": 4505
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/respond-to-code-review/references/bitbucket.md",
+      "sha256": "b45aa9a55ef64c0f19a1d948f987c2234d33eb0db260e36f34be231ac1120b47",
+      "size": 1573
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/respond-to-code-review/references/github-setup.md",
+      "sha256": "5addfacf87067b93c7768dafa1b06e269eb9d92e738b79a07e806d4d19f75343",
+      "size": 1693
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/respond-to-code-review/references/github.md",
+      "sha256": "bb8c3d5238b61479f8fa2e619213ae86b7d9e0fb7b6e2915a804c5365043efd4",
+      "size": 3165
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/respond-to-code-review/references/gitlab.md",
+      "sha256": "e2c85d37f4a1115ff42b64754716472da5c929be79938e4ad3dc9060c015ab4c",
+      "size": 937
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/respond-to-code-review/references/review-bots.md",
+      "sha256": "1cc01a6b370c2333a97df0e69bd367759ba7f3d702fb554856bc22599304a69b",
+      "size": 2576
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/write-adr/SKILL.md",
+      "sha256": "28c9c3ad7ee78ab04413a597c36f6a4c64aebe5cd8357be9480aec14390e765e",
+      "size": 11335
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".claude/skills/write-prd/SKILL.md",
+      "sha256": "fcc3aeb4edf7e9aec5e3814eb5e5dddf3a8d42b2e8b980312b2318306385d618",
+      "size": 7100
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".gitignore",
+      "sha256": "4af1cdbde1713cbaa0c7bd4521a26220878ae8b08b66de6ecec3b2afbe800e88",
+      "size": 76
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".idea/.gitignore",
+      "sha256": "4d4bf7821823e4011771702449065544347784ecf4cbde265125a36c0d8e31b0",
+      "size": 238
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".idea/compiler.xml",
+      "sha256": "533e6efb875ce8e31bde2e5fca050ed551c3a0dea8fef169c86d28895f30196f",
+      "size": 537
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".idea/encodings.xml",
+      "sha256": "249a9601946e15dff0f1b223ae6e9b08df8e1307b97e5c4b58cb2a5334cba555",
+      "size": 572
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".idea/jarRepositories.xml",
+      "sha256": "b0b8c772f0b7462e828e7ed88c8d6cec728f47430c5c67addc173e2ec06b3762",
+      "size": 1094
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".idea/misc.xml",
+      "sha256": "f7295ae663088ae0eacef8087289cf00eb52593bc39388190d2605026b09c461",
+      "size": 486
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": ".idea/vcs.xml",
+      "sha256": "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df",
+      "size": 172
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".project",
+      "sha256": "4fe89b37f3cd10147c1c7d63c406b7b72b980899273fe500191baf82f0e6e6a7",
+      "size": 556
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".settings/org.eclipse.core.resources.prefs",
+      "sha256": "05d89410e1a2426d3163a822ba2842c572f0bb31b83fd66d167de971286375f8",
+      "size": 336
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".settings/org.eclipse.jdt.core.prefs",
+      "sha256": "2443f416c2c2fd812eaf7883666f1aa21f5ddc1b13701bcce28934417baeaa8e",
+      "size": 30156
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".settings/org.eclipse.jdt.ui.prefs",
+      "sha256": "37b59cb27528ef4e3c65cc10f85ae828aee1eac1c208f6d17bbd153384b6d503",
+      "size": 11350
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".settings/org.eclipse.ltk.core.refactoring.prefs",
+      "sha256": "7796567e72315e4be0dd67128447e4a48da08d8c1584822059a12ff48e4d7812",
+      "size": 106
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".settings/org.eclipse.m2e.core.prefs",
+      "sha256": "773c6d111354b495e68035a89eddbe5881224fea04a237d27ed5ca138835ffd7",
+      "size": 90
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": ".settings/org.eclipse.wst.sse.core.prefs",
+      "sha256": "c7f3fc5cbfd9108849d1cad1b7a4e7597cd69593e08e81ee34b01069594e0bc8",
+      "size": 92
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "AGENTS.md",
+      "sha256": "14de9a7ca5a32effdc8a25fe6fb773043c586e1f8024124e3c662d9a40f430ea",
+      "size": 8558
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "CLAUDE.md",
+      "sha256": "d631d88045f74623d568adfb4783b72e3d1b732330d749bc6c72e6648d4581d3",
+      "size": 12
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "LICENSE.txt",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+      "size": 11560
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "NOTICE.txt",
+      "sha256": "1e2cce620795b0f0cbfc7c318811a96a74c315e6f63538c742f83c5c9d9c4cd7",
+      "size": 569
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "README.md",
+      "sha256": "8821969e8a2c7cd42f0e39c66c794665a54799915d8095c174688329aa2a1bac",
+      "size": 6862
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/AGENTS.md",
+      "sha256": "564426cbda647c9abaf057f505b234ee8a04b442a5872aa05d45812caeb78a5a",
+      "size": 1598
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/README.md",
+      "sha256": "e72a4bf390065e094781ccfd14dc27455dfe0ecd4c2f5613f899fd73855eb498",
+      "size": 2402
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/architecture-and-ui.md",
+      "sha256": "ca01c004d800ea454aa2e48f7a4a2f8c9af909b09b1e18a80671b824d9892de1",
+      "size": 6155
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/build-and-dependencies.md",
+      "sha256": "fdc5857afafc5220ad1816b7b2dd3d9cd73bd3f5e5f147c77065c3e4c02b7dc1",
+      "size": 7021
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/current-state-overview.md",
+      "sha256": "fff843344075bc971287124bd3be1ad62d36981a3e839ba7d97e8f639eccd187",
+      "size": 4655
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/ftp-transfers-and-zip.md",
+      "sha256": "bf3fe4b8e3ba689b0af71ce2d32569c7cfb07156927e9824dc0d8a70ff7dddc2",
+      "size": 10270
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/gui-components.md",
+      "sha256": "2cd81ea50923236dbb9f67738f5d01924b328817618aed3c5c4ad05bec6ccdda",
+      "size": 10612
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/jftp-repomap.md",
+      "sha256": "1bed9f2ff8360fbdfa2e0ad4bb5341ccc7ca2cc75dfe1a60bb0292a72b090ccd",
+      "size": 140581
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/preferences-and-user-data.md",
+      "sha256": "a42fdedc90be86a340f7355fbe9f11a76490cf60a6c0e59f7dc8bf805b581ff0",
+      "size": 6057
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/resources-localization-help.md",
+      "sha256": "4881552a9f49b25a8187252ef33cc86472466093d3b1b481163c80bf93930816",
+      "size": 4651
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/security-and-ssl.md",
+      "sha256": "f54fcf1b5897c9b38756e9ce7893260ad7f88ffc06ba1d88a94bf92dccd27550",
+      "size": 8594
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "docs/utilities-and-events.md",
+      "sha256": "7ac1b22eea27b370fd5f3a834ad76e1ea181e8f678ec065899fba0a48ddb607d",
+      "size": 8900
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "pom.xml",
+      "sha256": "0e4da3203c623e02327c3876bac889c743d73fff27eb2c2c54196796d85f9019",
+      "size": 5568
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "skills-lock.json",
+      "sha256": "b02d56c9ad19a773d10248ce3716409e8f7770967a055eed9433790701b01da0",
+      "size": 1788
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/AGENTS.md",
+      "sha256": "f0cbc12b29878e31c969ad18de1cc216ee34a98357ddf808ff117404ee86360e",
+      "size": 1597
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/assembly/binary.xml",
+      "sha256": "50271eaa82d5e6cc5e4c8f9280d1fef27a59c673182985cb663f81a5a245a188",
+      "size": 1358
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/LICENSE.txt",
+      "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+      "size": 11560
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/connect/connectionDialog.html",
+      "sha256": "0b7da7af7340e9fc301ff7b409553951565db1a461354b65fc6b24b559f310ce",
+      "size": 10789
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/connect/disconnect.html",
+      "sha256": "aa08be42bf96fc3c51329e44d4ac9d4d812a6a733e3a535ad1c11d1c789f6ed5",
+      "size": 858
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/connect/favorite.html",
+      "sha256": "2300b4cf91f946985eb95909c1c5a2bb88449fff80e3267a00fc811994187336",
+      "size": 1763
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/connect/index.html",
+      "sha256": "4343466ea180f3195ac304cfac697c7923b06c8fbaa0210a80da68174eed6f34",
+      "size": 1054
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/connect/reconnect.html",
+      "sha256": "707f4d80418ae481e946ea5ccc4a9eb32edb5905af6f2cdc43aae77e364204ad",
+      "size": 930
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/credits.html",
+      "sha256": "630bf7980d9a0afa308f4163e861107645b59f7e63d6606c5dc7722a3a243cbd",
+      "size": 705
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/default.css",
+      "sha256": "8dbccb6f04b9a13707b72ed387e8fd15f4e2ad4d3d8095a2087e4c1b58c2a164",
+      "size": 2316
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/faq.html",
+      "sha256": "645d979db5f9194a48571fadf31f79b8c0d053e453fa77ce2e5bd21da1f09a36",
+      "size": 735
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/favorites/add.html",
+      "sha256": "a8b97de9cb3c72bafda73642b70a3731e9a9cc3ba05b1ef953d3cc9da8a8c71b",
+      "size": 10828
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/favorites/connect.html",
+      "sha256": "5af8dd27dc91458e1ac29372e9f592e53f506da824ff559b5259a94beb4da643",
+      "size": 1372
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/favorites/delete.html",
+      "sha256": "0435585980ee381895f60a7086c2bb6b1be50aea0350aa64e77b5d68f41e15eb",
+      "size": 1465
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/favorites/edit.html",
+      "sha256": "d8c6da4684e360fae80b7c590bfd0287be99c1afab0d3b15eb48e7725d791a03",
+      "size": 1842
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/favorites/favoriteManager.html",
+      "sha256": "fa9e9be80c50b5aea1d8f0146fa2d5d9e98d698a63266144306c6a54030badc9",
+      "size": 3102
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/favorites/index.html",
+      "sha256": "0ef4376763e70fac6df36171688b67763631d1ec64b8a17964ab0ad82692db61",
+      "size": 1149
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/feedback.html",
+      "sha256": "821e5b6c70b23f5ded8df3651d315946dfc22279ac156feff766ec7645964ba6",
+      "size": 671
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/index.html",
+      "sha256": "76add617e6eb8fc33bcf2e49cbf97eff8b73aa9dc79648a694a4dab702ba9a2d",
+      "size": 2329
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/introduction/features.html",
+      "sha256": "26fb6b2bf375c33fd6965e2b77a64fc7461bde002965998e08ab412951e1533e",
+      "size": 8389
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/introduction/index.html",
+      "sha256": "ed4f02ca27d426e616b455a2632b70775f2230767444dd2d31bccbdb77a4b51b",
+      "size": 632
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/introduction/uninstall.html",
+      "sha256": "d9e81e98631183dd27d05e2038ed01282abef9d3e5aee060431aaf145f1aadf9",
+      "size": 419
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/introduction/whatIsJFTP.html",
+      "sha256": "49a30d3a0a5c8f1fff3d2f2fc86a6053e5af059bb12dffd555df42563f642f89",
+      "size": 1241
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/keyboardShortcuts/index.html",
+      "sha256": "d2055b8d9c3cb2aa8ba3b4a12f80636fd14689825c0d385005ea21fabd472ea4",
+      "size": 3757
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/browse.html",
+      "sha256": "09fe7f9a2bb3a68fde03cf782cb01d45d4d91bf821786664dd9c144ca02f9787",
+      "size": 1873
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/changeDirectory.html",
+      "sha256": "1922dc8a6f0a8da0b1c83b00da60883e8afb8649814b236e33b41b4a742d6214",
+      "size": 3080
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/clearFilter.html",
+      "sha256": "fbd6536bd2c32ce6e971ac1329230f5e85ca397bcb8ab9730ceb73bd646dbea0",
+      "size": 1017
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/delete.html",
+      "sha256": "410c1b944ad2e8e76cd2a5e3dbca37c0d583638c58bef1c9a34d3c829f7e2ec6",
+      "size": 1900
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/edit.html",
+      "sha256": "deb4637dedadaea2ed22ba5a4c3fcbf39d8f9698813ecf4f54436baa2a73bb38",
+      "size": 1286
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/email.html",
+      "sha256": "27bc925790b396f87d525330b6ce05ba179ff8f84d4612a99d09096b9eccac5c",
+      "size": 1248
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/filter.html",
+      "sha256": "b03dbc67569892142367ed4642f7be2718fef931c9bd9b3f1d8b5287d56f8402",
+      "size": 4958
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/index.html",
+      "sha256": "796f2b4773b5c0694bca2a13b7c639d3ba1b044e8153dd66b99e625669c52983",
+      "size": 1541
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/newDirectory.html",
+      "sha256": "9789d16a5aefeb1f0d8bcb236a69b5e09808538ce1bfc54feddcac86e8e4305b",
+      "size": 3489
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/newFile.html",
+      "sha256": "abd047bdde422c7c96c7b435914ff7921309342086ddfde31acbe5da87b42ef2",
+      "size": 3371
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/open.html",
+      "sha256": "edf4119a26f89fd91ac091703799c6fc57ec01144f97b72a4a3fdd36de9a5ed5",
+      "size": 1755
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/print.html",
+      "sha256": "5fa11817e94e2a4618d31addc489275c5a49e238600e16c5524d6bbae7584df9",
+      "size": 1295
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/properties.html",
+      "sha256": "3be26e3638a0eb1f44366e7fa27958c493b0e0fd05fa7fc04b51120f574d079f",
+      "size": 2797
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/refresh.html",
+      "sha256": "ef3262e2ac261b24fb0065dff173c738c33541b0c19e4dfbb6c76865fc9eb88a",
+      "size": 1095
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/rename.html",
+      "sha256": "ab33141375e87fa5218345f5ab2225e1df26b878dc8bfa611a8935872282fdd7",
+      "size": 4436
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/local/sort.html",
+      "sha256": "63f2cd8be5117eee7929a9feda6f5bcc885a8b67a8fd52f4a437a66af2008f95",
+      "size": 936
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/connectionSettings.advanced.html",
+      "sha256": "6ec5e6410e8c0e5d7bdfa9c6519191c29b341edbc1b85f390213c2295e930f38",
+      "size": 3758
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/connectionSettings.general.html",
+      "sha256": "ffe073f3a4e32ac2cd3513d9121f7711db30c54c8810ce2e4b117a3196c18d9c",
+      "size": 1533
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/connectionSettings.html",
+      "sha256": "3c84b975d2be11dfa584247357110e80a169bc7cb3176be98ecd890868a8a5a2",
+      "size": 728
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/connectionSettings.proxy.html",
+      "sha256": "1d6f961b9665d42a036f57abe6036f6fb537781b3e579a1b10d0f1f17c1164f3",
+      "size": 2212
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/connectionSettings.security.html",
+      "sha256": "9611bee0b91753f4216ff2b6b74c41834d14b6bb582ee4d6907db683288a1080",
+      "size": 2164
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/index.html",
+      "sha256": "7d2fa03c6b7a4644ea940560ae59c5d3fc55a82fd838e18ca4bb63d6fd746934",
+      "size": 1917
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/regionalSettings.html",
+      "sha256": "00bb857b7057a8636a2d236690ed917790bc2e92a6912f48c09c7596d819b46e",
+      "size": 2450
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/softwareUpdates.html",
+      "sha256": "cd0b47471db2304eba6e702336f3cd73082ed8629ac8844e7398f9ceb47874f3",
+      "size": 1152
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/transferModes.html",
+      "sha256": "f48992a0efe106c36d4aa261d47d05e8ccfd20f948c5873f55a3a9a66bf4a58c",
+      "size": 2199
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/preferences/userInterface.html",
+      "sha256": "696b70bea0d9ad96c0fdecc4598cf4b59ce77048501545dc5dc3da1dc4c861cd",
+      "size": 1677
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/browse.html",
+      "sha256": "5ca13a10908e14cd734bd6361a541537c3d17cebf01a750a95d267d0e8db6fca",
+      "size": 1153
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/changeDirectory.html",
+      "sha256": "17d3ceb7e83a96215cf901c95db755e1ef4c3460fe11eb0c3671446abf34dd1a",
+      "size": 2608
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/clearFilter.html",
+      "sha256": "26a813309a901360fa1a18432c6880ab573f8905af8d80424cd7bba9c39d75f8",
+      "size": 1022
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/delete.html",
+      "sha256": "c116e0d0f4f46ee67eb2bca18d5bb182f30815504562509139b9449220ad0076",
+      "size": 1890
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/edit.html",
+      "sha256": "7c6090e1e313fc2eee28ff15e3b81e924adcccb431e7551ded951cac031992fb",
+      "size": 1364
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/email.html",
+      "sha256": "637da4cda83103d8b0b541ebece336de608d37e016b7ee3707d47681dcc8fba1",
+      "size": 1328
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/executeCommands.html",
+      "sha256": "55bf074d1d801e84c49a0d62d5870e5e16984fb710998ac4c30284ac858084ff",
+      "size": 2128
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/filter.html",
+      "sha256": "f7ce62a6791cc326503576ec4901dfc59e9fc634c6e5da481991df1f359e1c7a",
+      "size": 3581
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/index.html",
+      "sha256": "936b122e53455cb044b0a03763a36499edc0914aaa43a0210d1168daa931af34",
+      "size": 1620
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/newDirectory.html",
+      "sha256": "02d16f19f2e2e20027f8973d697aecdf0d40fded279ab9c5516a8681eaefb82f",
+      "size": 2960
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/newFile.html",
+      "sha256": "6cf9d8309989d8cdc8bdfc5213c5e9901a4f7447ea6a0d65b684ef10423f4525",
+      "size": 2922
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/open.html",
+      "sha256": "56a91c20ccbf31f81cadceb258292841d72669662d68cbceac121178a19030b3",
+      "size": 1836
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/print.html",
+      "sha256": "281ddf7cea5885c3f643f9f8669155d9815da8a97c3a4d98b8c14b82e1137cf8",
+      "size": 1374
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/properties.html",
+      "sha256": "8cd7122a6920f45080aeea6f00f44c356055855d57bc95c59d05d3b2a723ff33",
+      "size": 3779
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/refresh.html",
+      "sha256": "da289c894d90595d975ed8524d54010c9753992c217bc3432a0cf4cf6b2017e9",
+      "size": 888
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/rename.html",
+      "sha256": "0997fb97604800cc755f26f6f836c9d23be2062292214bcdc583ae8ce258493d",
+      "size": 4039
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/remote/sort.html",
+      "sha256": "63f2cd8be5117eee7929a9feda6f5bcc885a8b67a8fd52f4a437a66af2008f95",
+      "size": 936
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/security/certificatesManager.html",
+      "sha256": "d867576934d21a02ac4d6ab4ace51476809223f923364917ec53e1bc260149ba",
+      "size": 2298
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/security/deleteCertificates.html",
+      "sha256": "2a24a05f32a74c65fffd1985fa171df85c33e24a08f265ac4a77962a39746f0c",
+      "size": 1121
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/security/importCertificates.html",
+      "sha256": "a0d2eb94e2a0ce1ffb8cee1444dbb296c1229837129a684e93ebd0881a709772",
+      "size": 1169
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/security/index.html",
+      "sha256": "6c950d977f2db7051bc31b5e0410ed4cbe708b28f749b91284b6cdff270c7b2e",
+      "size": 1176
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/security/installCertificate.html",
+      "sha256": "219b8576ff1abd4ca2fc62d566bf95f750cffec4d382efa5fe620b155509c7b2",
+      "size": 1820
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/security/introduction.html",
+      "sha256": "141d223f2b16061d64628c232c6cf784c7ec6e96e9b92a60f73118530ae142c8",
+      "size": 3440
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/security/sslConnection.html",
+      "sha256": "50e4b16a9bf9c995f4587b364edabb1134480988f40ba3b0ff51ab356e371d64",
+      "size": 2097
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/security/viewCertificate.html",
+      "sha256": "b03b24cbb728378bc97898af59ebab56b0b6dcf8118f61afa9a7310b71db44cb",
+      "size": 1166
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/sessions/activate.html",
+      "sha256": "1f2b34d4d365bcfc3e4ede94a9db003653ab1eef5a1f1311fe9d5100e2f3ad1d",
+      "size": 633
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/sessions/close.html",
+      "sha256": "07c9b2c7b1aba86ca637a632468ef631e3ec44de80a2bc5f28671578eaa45c70",
+      "size": 966
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/sessions/index.html",
+      "sha256": "2c55a70e0c901f4271efa8fe76cb9331dd2e6e3bca44e5eef679bd4dd922387b",
+      "size": 1046
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/sessions/open.html",
+      "sha256": "580601afdc7bb14c79dd0dbdec305d263988ddb4d089620f4ce3c5bcbe656a30",
+      "size": 900
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/support.html",
+      "sha256": "fb9c3e5828d83d7dca4443fafd097aef500d0f722ae06f0daa4709d328f2098f",
+      "size": 677
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/tips.html",
+      "sha256": "b1844ecd17d7385aa77a587f1cf49ee9b41608df954fb546e1424fe63bf18453",
+      "size": 710
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/abort.html",
+      "sha256": "a55f1e83d1520e0e82511a42a6ddcd1c3afcfef1153c341c4ce43fbf020d2f55",
+      "size": 997
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/download.html",
+      "sha256": "0a036a3ba7f9fc5b5f6dbad2bca8ced494aafd786fc9438f856e8287e9013acd",
+      "size": 2069
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/downloadAndUnzip.html",
+      "sha256": "a01e37837ec8642edd9f00aa9acc58f9895bac55deb20aa1ada11555adf21c49",
+      "size": 4195
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/downloadAs.html",
+      "sha256": "cacd79070e75dddb56ea4528f76d8ab6fa442e008d1aacbd86ac949a200cab1b",
+      "size": 2193
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/index.html",
+      "sha256": "c4b5fa4530f783f40585435830d25535ced41ef196e560591e281aa83783af94",
+      "size": 1037
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/transferModes.html",
+      "sha256": "17ceae94e9d68ddd846f5f1cdab3655c2e535f0f558d32b39cc92bae1f01776e",
+      "size": 2256
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/upload.html",
+      "sha256": "e5f0b1f6d14d6ec75fffdba35c31f7b20208d376a94cc30b92e3dae7cde1ce22",
+      "size": 1824
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/uploadAs.html",
+      "sha256": "663657c8661edf2cc10ba73e776bb5e49ed2a736775fc6c2db00e945e1e0ddc9",
+      "size": 2233
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/transfer/zipAndUpload.html",
+      "sha256": "52bf9503506a6a20dcd687eedb06cbb6411dcc9e173ee8140d0da06b59540532",
+      "size": 3573
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/index.html",
+      "sha256": "dae356fa6eb20e4b3df551e657d4fe2236d0ced13134349f8335adfd42cdc8a1",
+      "size": 953
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/localPane.html",
+      "sha256": "c913027f69650279ce4c777ba8d00599781e1a194787ecf1a5bcc760ebdffff4",
+      "size": 2195
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/logPane.html",
+      "sha256": "935c3db3cc0f790308ddca44fd4ac15b553ac6b069ec2d852040872a626e3450",
+      "size": 1728
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/mainWindow.html",
+      "sha256": "ceba9f5ab69f72632b4dd7eca549115e6ec4a721484585f7fa5de915e3a7eb5c",
+      "size": 1112
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/menuBar.html",
+      "sha256": "8aee85e51ddeb3c92155b23d064d667695fb4d76c6bdc8319d1326143b4d4c14",
+      "size": 11443
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/remotePane.html",
+      "sha256": "9b483272a2134a0d7a7eee98d8f4da35be6b7c657ef6fab37e6734285f19afac",
+      "size": 1704
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/sessionTabs.html",
+      "sha256": "de95d8000e13b6e4185cfc9792910dcb1eed5c19793658bd260ef74f484e8fa8",
+      "size": 1283
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/statusBar.html",
+      "sha256": "f488272d3f45f02bc405e12b7ae86c2a3e2e764c1924c89472f24273e4123519",
+      "size": 1062
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/content/userInterface/toolBar.html",
+      "sha256": "a24a47507761cbbc5487051281fbcb740dd76dc2a1918807a1c2ad971f39d159",
+      "size": 4308
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/favorites_2_0.dtd",
+      "sha256": "d9d95e13d9d93875a10687f879383c77e058b3e63abfef385a23b235201a7300",
+      "size": 652
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/help/helpset/glossary.xml",
+      "sha256": "6c3ed6c1b82937b8f27a2a54a88574237e9b046533db7bceb1058de6581969ae",
+      "size": 446
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/help/helpset/helpSet.xml",
+      "sha256": "31a06a18bcb3ea1eabe263ac11414aee83a0710fb51c61878d3e07bbcb55be7e",
+      "size": 1346
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/helpset_2_0.dtd",
+      "sha256": "8400c2d903976c48ce5c2f4cb9570f8c829072c271d6096bb60bce2dd2603241",
+      "size": 2771
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/help/helpset/index.xml",
+      "sha256": "e36ed4120addad5f2a5c53a8a2579f9b279176bc496e9e97371e8fc60794e786",
+      "size": 345
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/index_2_0.dtd",
+      "sha256": "ee6728fa2023f6196c6530a22471366c53e0aad28dde9771645c4999e8d5b80c",
+      "size": 912
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/help/helpset/map.xml",
+      "sha256": "829f2ae291e571344033cbdddbe7e29542d8fd7d1da9e7ea69c7bee431b90bac",
+      "size": 7887
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/map_2_0.dtd",
+      "sha256": "dc664c3e6105e55319b7f8ca5aee852e7487fccd70612f30d158f5e3301350e2",
+      "size": 606
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/help/helpset/toc.xml",
+      "sha256": "9578d0fbf1e3eba1fe70cf02d5e709f91b2e55b3b479573f3a537d31a1d5968d",
+      "size": 7067
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/help/helpset/toc_2_0.dtd",
+      "sha256": "dece3eb297b56eaf7590197c89b3a81d2559a1f338293ef60544a49b6159b718",
+      "size": 1060
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/java/com/myjavaworld/gui/AGENTS.md",
+      "sha256": "b13d0cd871ae91d3d0e19a04bb8a8d1a0c3132a532f6b69d90faee4ec05bfbe0",
+      "size": 1106
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/DateCellRenderer.java",
+      "sha256": "2ed458986e3d5257ec794fe38858f570f0cb4d7312d86007a0319e644417008c",
+      "size": 2222
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/DefaultLargeTheme.java",
+      "sha256": "5f96d765a6cfd70753616948dc32cbac4a531ba6b9e34ffaebb4ba7acbf9d1c1",
+      "size": 1944
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/DefaultTheme.java",
+      "sha256": "66ccb12ed6708e8f82b405b89e44229e46618cef72eec9a62a254eec89ac1c5a",
+      "size": 1953
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/EditPopupMenu.java",
+      "sha256": "bbca75d06ce507fb5a78225c07f1d956a03e366d405c385de6fa05350d8c7013",
+      "size": 4930
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/GUIUtil.java",
+      "sha256": "9eb1239d526e7b687b7f95891707a6bd1b59c1ece8895032007e6e03250986a7",
+      "size": 5436
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/GreenMetalLargeTheme.java",
+      "sha256": "74282d6fa890edbfbcd9967b7cd8a97a2436aa01d367d067ceb4d119361cbff5",
+      "size": 1911
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/GreenMetalTheme.java",
+      "sha256": "dd32d0c204994887cf687fcdfdb0d1e914114b2e527cb743a280a4f4df738afb",
+      "size": 1473
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/HighContrastLargeTheme.java",
+      "sha256": "29684a2b1048f198ad236bbea7fa3cd8ccf26e5cd9e7b614329725421d8aba8b",
+      "size": 1917
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/HighContrastTheme.java",
+      "sha256": "373f7f9942ff98ec92638856d566089cddba9793583d7403b29335a1644fe98c",
+      "size": 2015
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/IDTreeNode.java",
+      "sha256": "d0daaa2adceecd2c622ba92615e2c82d884baab61c0a57dfa8cddd2682d1d75c",
+      "size": 1381
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/ImageCellRenderer.java",
+      "sha256": "43b9b26b4ae7ecb05fb2ce5b25f3616417d4e0047182db7e8f292282bc2e90b8",
+      "size": 3623
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/IndentIcon.java",
+      "sha256": "b4596c5863c7e68bad8c0cea6ee5c430528b975f1987914350d3ea801ce383e8",
+      "size": 1710
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/IntegerField.java",
+      "sha256": "3a0b72cc90e703244dddef89a980d33ae34df5a5f31155bf62e7a327682e385e",
+      "size": 3026
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/LicenseAgreementDlg.java",
+      "sha256": "a34aa6685b25e2cfe03029f9b9620f24c878df4302c8bf7f589f5c1607934ebe",
+      "size": 3841
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MButton.java",
+      "sha256": "c63e0b7a987e322252f1d8de8f12abd61cc3d59eda07a93457574811d6c70d4c",
+      "size": 2240
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MCheckBox.java",
+      "sha256": "75aa925ceb160e29601b14459758a4bfdbc9bedb6946ce50c0d11983583961aa",
+      "size": 2047
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MComboBox.java",
+      "sha256": "35cf935ee150867eb6710c2e44ef64767223d3bdb623b2cf2babe9830486fa1a",
+      "size": 2145
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MDefaultRenderer.java",
+      "sha256": "1e1facd349f9e66a070900f1a815e6249776ecdfdb1e81009eef42546251a852",
+      "size": 2580
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MDesktopPane.java",
+      "sha256": "9b03382535661632cc2c8b56045566d18c5ebeadb0a0a869b0af482efe29e552",
+      "size": 4717
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MDialog.java",
+      "sha256": "85e56a2c99ccf96a11a27e20609f38a0f63b4e32bf216a43676981f811daf9bb",
+      "size": 4510
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MFrame.java",
+      "sha256": "c59a49f8d8c4c9d33deeb2f4a62e780060f6761a645c20c6d357f602ffcd1f95",
+      "size": 2281
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MGlassPane.java",
+      "sha256": "0a49c451b17090c2f57e71ed4efef8cd63d4a82bfc1ab4ba802a6ab5e58807c8",
+      "size": 2148
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MInternalFrame.java",
+      "sha256": "5eb676eba87fcf24f790182f61743bc6667598010bb12d137a4b8445d4c4445b",
+      "size": 2490
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MLabel.java",
+      "sha256": "f039ef4e8a710d129b709eb4147488c3958df33d14811ba194be627dd6249998",
+      "size": 2287
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MLabelTextField.java",
+      "sha256": "faaaed1f63cb39b32da589690ae5b5c016cac17358ba7addedf800f62d4305a1",
+      "size": 5411
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MList.java",
+      "sha256": "e0944ba343180e6ec0d77294633c4d986afaa3804fcca44738437838dc8742f5",
+      "size": 1297
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MMenu.java",
+      "sha256": "6ec81b899a72911c753086b62b4ac7ec5dcd8937adc5d320632becae57354799",
+      "size": 2020
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MMenuItem.java",
+      "sha256": "c9987fa472c48065fea1701a81efe17156517c159b5ce1f043100078ffcb2408",
+      "size": 2022
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MOptionPane.java",
+      "sha256": "898c3b7ca7e59452c44b0c6baae4b5410c11ff656fbc1467e0ec7582db84208c",
+      "size": 1242
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MPasswordField.java",
+      "sha256": "043310f260473bcba07e5123a713960c55a213ad3bf44860b0f17e51a6627a44",
+      "size": 5334
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MPlainDocument.java",
+      "sha256": "513afa92189995e3ae0c1b874013624543dcd1a6d4d621d104b693cb9eb3c00c",
+      "size": 2788
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MPopupMenu.java",
+      "sha256": "f791b75e37f661ac2e13ea8644b0fcaad098ae5e9e6983b012a9af0ad8868db2",
+      "size": 2435
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MRadioButton.java",
+      "sha256": "64295ac8c49902bd65f692f29b7b5325a2cd373bf540eaa2ebe3daaad81befb3",
+      "size": 2080
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MRadioButtonMenuItem.java",
+      "sha256": "021ed210020f65d5c39674db30b9111cc898b33c89774a08384470fed401eefe",
+      "size": 2330
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MScrollPane.java",
+      "sha256": "821aa9c41d3f23550bf9e0a6be2e6a2bb813b021ff93b6f9993fbd35aed343d5",
+      "size": 1423
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MTable.java",
+      "sha256": "788cfbb4e61261f5ab095c976eea5302a47c0154dcd8379fe41adf4b25c6d789",
+      "size": 4165
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MTableCellRenderer.java",
+      "sha256": "8082ede54820f47041eb909ea34a1d205c698e596c931ede1e2593b437a725f7",
+      "size": 1699
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MTableHeaderRenderer.java",
+      "sha256": "6629fc95295497783bbcafa0ed5c3124f8024fcb47ab4ef065444bdb4c30f718",
+      "size": 2424
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MTextArea.java",
+      "sha256": "799694adebde8ffdcff8bb7d3479f99e1d2d4b28fb8bb7b70a6c3afc0b15b151",
+      "size": 4820
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MTextComponent.java",
+      "sha256": "d0c0d9495e2dc8af6521cebf2237d021a04887faa0e567eaa0b2a5380ade926d",
+      "size": 4724
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MTextField.java",
+      "sha256": "3e794c07a0f14f67cda5230cb9645d90d729f820ae2806bf02747c6f3eba78ac",
+      "size": 5537
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/MTree.java",
+      "sha256": "8ff5861ecd2374e74553c4707ad8def50eee3ef491f3e07b23b00ce3492987cc",
+      "size": 1409
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/NumericCellRenderer.java",
+      "sha256": "dedc2f92d1c9418b9c10b4bf322a494a7dad484eca96bf230bbddaecb565c339",
+      "size": 1713
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/ProgressDialog.java",
+      "sha256": "fe27e7941189e1c2d376d1417268d65bb01e629a9c38886d3d9658118cf2fc58",
+      "size": 3913
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/SandstoneLargeTheme.java",
+      "sha256": "e0e450e00f4df3aa4a296454de324f0575f6ad5f6b6b55b614974d549ee6fcca",
+      "size": 1872
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/SandstoneTheme.java",
+      "sha256": "0bf316927f565fc1c16625843e707422171e6653f16e6206da9581655adb294e",
+      "size": 1929
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/SingleLineDocument.java",
+      "sha256": "85c35d7d906b98272469de43c20043f746deb180389df1dbe0d4e86fe9e776e1",
+      "size": 2030
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/SplashWindow.java",
+      "sha256": "9fb411edd38f93f3c4b834f9158728f9e128e404f57a7787266809ed3e8e285b",
+      "size": 1966
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/SwingWorker.java",
+      "sha256": "7af6d4940056dfd7cb13663695cc23888c18a4dccbb1fd1f349629eae4ef8ac4",
+      "size": 3712
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/gui/package-info.java",
+      "sha256": "57b4767b285ff74bde628858201ff580153213241588ec7a9b09f0401291e93b",
+      "size": 793
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/java/com/myjavaworld/jftp/AGENTS.md",
+      "sha256": "5bad683c2bc404179779662c95e1aba68114454b1b87095133ea234cdade5c4b",
+      "size": 1881
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/AboutDlg.java",
+      "sha256": "777454dceddb0761adaed951d9a25faf85d1e1c8ee2dfc7b6131e40e11ee9a6d",
+      "size": 10241
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/AdvancedConnectionPrefsPanel.java",
+      "sha256": "b1d37c89408360da209c8735b6ba1665609c2ade00bcab285d222c51c2b6bfe3",
+      "size": 6259
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/AutoUpdater.java",
+      "sha256": "8a073796374ea54e89587bbb0671d097f42c8f23496ee3ef447b61f482834906",
+      "size": 3025
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/CertificatePrefsPanel.java",
+      "sha256": "213eed4ce5be5bfb70169d7f24a8327fc9ef635dfa909f1e222a73cc321d4607",
+      "size": 6558
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ChangeLocalDirectoryDlg.java",
+      "sha256": "fccf9199d47792f3ba968e134b20130a6725602196fb51b4f15ab82f7f82e7ab",
+      "size": 5373
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ChangeRemoteDirectoryDlg.java",
+      "sha256": "0afbd4116508cf3b47b73a966d752208333710d4117251dddd9ec89a1f02bcd0",
+      "size": 5394
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ConnectionDlg.java",
+      "sha256": "86ac13c31712364d68c20646cd4809af12e47afd41b2eb0dd07955494d967f39",
+      "size": 21450
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/DnDTransferHandler.java",
+      "sha256": "004dc2a3cfead33f673686644a83e8698df5fdd35f30b87959da66120c5fe322",
+      "size": 4890
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/DownloadAndUnzipDlg.java",
+      "sha256": "14a9be71ddd61df35215cd99f9f0026931d80673ad55233d3364e5629a1ab8a5",
+      "size": 12435
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/DownloadAsDlg.java",
+      "sha256": "7a4e1f73d3af55fa72d2abca8532bb59cb77cdc0bf35716a7f65e718e09f1913",
+      "size": 4924
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/DriveCellRenderer.java",
+      "sha256": "592126991d8f3eaf0e8868f9147b522c97a49c826f2c169a7a6aeeeb20bc4907",
+      "size": 1755
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ExecuteCommandDlg.java",
+      "sha256": "63c11169b00d9a6924396e6327952348e3b78bd51cbdbbf42a51f9922693f65b",
+      "size": 5365
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/FTPMenu.java",
+      "sha256": "f194f09f06b4d7b433666f8d98851ec833f1073289f51ef86b810b7b8851b615",
+      "size": 10693
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/FTPSession.java",
+      "sha256": "7ceb1617ec403a910846bb859cf335e5264646f9dbe6cec4611399e07f27243a",
+      "size": 44507
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/Favorite.java",
+      "sha256": "911b98c99a75607dcd9fc57c02858c06678c998ab6825f3b8a891b86738a53f0",
+      "size": 1515
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/FavoritePropertiesDlg.java",
+      "sha256": "014f43a2111de86b9e4ee804d5b185cdb369e7f020dc5dc80077c223130ea1c2",
+      "size": 23609
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/FavoritesDlg.java",
+      "sha256": "6af5844028d74575fcb4fc9320629c98347aa74cb61f70a82c547db781d4f137",
+      "size": 11580
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/FavoritesManager.java",
+      "sha256": "c50d233ee0488c87df61defaa9440b5eb76f5e71bfa404329a68edfdf5baa126",
+      "size": 5510
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/GeneralConnectionPrefsPanel.java",
+      "sha256": "ba16d6ec1042ab9e9997888ef699cecc116d7763abd9dd72a45240fb6051f530",
+      "size": 5638
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/HelpMenu.java",
+      "sha256": "1b00c7167fc65f9ffa01483cd125ea41cb8d3453910c54c1989abb26f1694727",
+      "size": 4037
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/JFTP.java",
+      "sha256": "845ae223525ea119e310178201fa0f5010fc13888fa27d12d6c18e1cf108350b",
+      "size": 22432
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/JFTPApplet.java",
+      "sha256": "207a069b4b87f8e1901a56d2dccd68f416e810edbef81bbae04952ab281931c9",
+      "size": 2525
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/JFTPApplication.java",
+      "sha256": "a917c338b788b34890fdf8747e35862ff5abf3ca62aa3230fefa23c6c1d13e0a",
+      "size": 2161
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/JFTPConstants.java",
+      "sha256": "05d070a23997f1a2aad85c98461977586117d663dd651026a9dc454fa3db79fb",
+      "size": 1411
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/JFTPHelp2.java",
+      "sha256": "d5ad0986c9e36adf8f782ef9b1889f7c55d7cc121815dbad12a70e743503a79e",
+      "size": 2062
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/JFTPPreferences.java",
+      "sha256": "b94fb2d1eabfcd7484979a88e926717d9b046c6b9c91f4fb18e0caad3dbc2347",
+      "size": 12893
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/JFTPToolBar.java",
+      "sha256": "3430dc4ca1a6dbb40890bf4be4c1fcb7c240c88899ec2fd7edb9feeff0968e76",
+      "size": 11954
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/JFTPUtil.java",
+      "sha256": "4cb4b2d1b6bf9d58b20fc17a5cadc9d5e2dfe9b814dc907f93aec51cfbbd75a9",
+      "size": 2700
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalFile.java",
+      "sha256": "8af551de8f5d16faea6a82713d8e748d2c2eaa3967731d8da715f798bfecf341",
+      "size": 6230
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalFileCellRenderer.java",
+      "sha256": "e0896fcd9e3be4d73c185d15752d8a8c6c6701d853e40715e157b8848b8c2cb1",
+      "size": 1929
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalFileComparator.java",
+      "sha256": "99cdc022bada1194565aaac998ac4a457e7acdf5272532b428bd32b2aca9fbb4",
+      "size": 4602
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalFileFilter.java",
+      "sha256": "0557e7b990778389a6045fcf9721362f9cb2f325c68ddfff8526626833dddeb2",
+      "size": 3683
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalFileFilterDlg.java",
+      "sha256": "f64d762bc2e9fb3b15622ed9b2fa50a987266cd2aebd034bceca771b2a63e08e",
+      "size": 13388
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalFilePropertiesDlg.java",
+      "sha256": "3751e5281bfbbc4d4dd4b535b42796275facc5a27edb5deeff018fb886a36fd8",
+      "size": 11932
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalFileTableModel.java",
+      "sha256": "e36ec584b78439c357ed8d9acc722b52d6a0c136d343a1420c1b40957b10104a",
+      "size": 2512
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalPane.java",
+      "sha256": "1c4880969e6efa0fbeac9dd6caa52ce4be7e1db057ca5816bdd2cf2d657f1161",
+      "size": 16322
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalSystemMenu.java",
+      "sha256": "cdc674b6e055e56839bc97880496ebb6e60de840203bcb32cb58550e3f40c75b",
+      "size": 11901
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalSystemPopupMenu.java",
+      "sha256": "5df9323cf86e257df9ef8308341a9a2d1687e71aa9ef8ecb82d9a24f4b8baf1d",
+      "size": 10879
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocaleCellRenderer.java",
+      "sha256": "760fdaaa6b74228780fc351129d025b284ac1b8652715123a91864afa5e8c32e",
+      "size": 1634
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/LocalePrefsPanel.java",
+      "sha256": "fe1c1fb0572a8ca5f615595493217dc9f5f061d4f39dad807f6b82eabd8644d3",
+      "size": 7291
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/NewLocalDirectoryDlg.java",
+      "sha256": "2f4173c17aef0f7e8670b90b8bf9158f31292441dcb05976f522f2039eb52a5c",
+      "size": 5313
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/NewLocalFileDlg.java",
+      "sha256": "dde5020c04f946699f87462b7d73430c30dd34f108e805352346b8ac777bc5be",
+      "size": 4738
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/NewRemoteDirectoryDlg.java",
+      "sha256": "acea0564d0ce8219ddfb8e0cc3f8642f00dad0dad87e55ea2b0f1c81a082b191",
+      "size": 4596
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/NewRemoteFileDlg.java",
+      "sha256": "15f84400ad5fd9d5e0d7465e220b585cf7ae3aeaa4937a7cfdbf6d2641e83835",
+      "size": 4542
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/OSXAdapter.java",
+      "sha256": "c5e84d629d0d733e718b1bf31741bb1a744eb7098db0f801db7657c9543a1498",
+      "size": 5631
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/OSXAdapterOld.java",
+      "sha256": "d3fb5920533d2a5d0b196ff2b6efc62f9dab79efde40d0b4dd639f0a603de868",
+      "size": 5834
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/PreferencesDlg.java",
+      "sha256": "69f622dbf480bd6e86754cca493d7612eac596b33016e4f0e5fbb4579ac2869f",
+      "size": 11394
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ProxyPrefsPanel.java",
+      "sha256": "a2b12989dc5a99c5c81617261c9d1e831ffde1389bcb85653296967d5ed017e5",
+      "size": 6975
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemoteFileCellRenderer.java",
+      "sha256": "2a02b03ec2b8ea6ea2b4be66952f08fc7d794ae998cdfe8350e21198c8c7cef6",
+      "size": 2000
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemoteFileComparator.java",
+      "sha256": "d20314facbbbd65cf8358c085c510bdf19b48905a8c17438492f768895334096",
+      "size": 4143
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemoteFileFilterDlg.java",
+      "sha256": "5ed7769ecda4801891ff6b1fc9d34d73e74c332849e352b8d502863c6c678c6a",
+      "size": 12349
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemoteFilePropertiesDlg.java",
+      "sha256": "2012edd58e0c9918e2b7cee9e2ec5f4b7503e738e369a9fe1a16dcf5910ed6b3",
+      "size": 21904
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemoteFileTableModel.java",
+      "sha256": "e52644a592e1e26412d97edf246b01b5c2ef104e31d10f0f924f87d8a5a16273",
+      "size": 2667
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemoteHost.java",
+      "sha256": "451d94d3e00274b95e0f7275aaca463d9bbac9f8d989d0640f950acc6ef5bd37",
+      "size": 6930
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemotePane.java",
+      "sha256": "5e652edf743ff88c8a30bc37720121b12db5e124a51a6c605ce30d6b554bd61e",
+      "size": 13697
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemoteSystemMenu.java",
+      "sha256": "d0fd3c7c6d5366fcdfd3420f031dc8499edd10336a9040e123adacb15791646b",
+      "size": 12853
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RemoteSystemPopupMenu.java",
+      "sha256": "9f754d32da25a665c179b97a58ca39802ddad5ee907dcf6ca6962858fcb1cbc7",
+      "size": 12874
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RenameLocalFileDlg.java",
+      "sha256": "3420892bc4006553a332e3d4e526d2e312af6b6587417173b9ac0f8a3f630cd5",
+      "size": 5499
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/RenameRemoteFileDlg.java",
+      "sha256": "5a0de6d93ad9ffbec368dc4c466dcd10e397e03026cc8e2486e7fef69e7af898",
+      "size": 5433
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/SecurityPrefsPanel.java",
+      "sha256": "a0e2d91a770f3b44b928ab3f6e2db45c229e886a956202b882cd029bdd3b68d3",
+      "size": 6505
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/SessionPanel.java",
+      "sha256": "e5375ed07b0b7ee9674bf7ba3c7ec62e228140b7f9369d191c0c0f4a2b2f05c0",
+      "size": 1590
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/SoftwareUpdatePrefsPanel.java",
+      "sha256": "9899d951f63fbd70e797b7a86313bb576073faadfc31513e15abdeab02605301",
+      "size": 3049
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/StatusBar.java",
+      "sha256": "4159d2522c3c821565a44ebbd2e65dd69be622238ba9149cec05de3c05b7e4da",
+      "size": 3982
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/StatusWindow.java",
+      "sha256": "17574011dc9978828ca4253c6e3d2d1601235bc8b2b7bda746667f1258a00bee",
+      "size": 3677
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ToolsMenu.java",
+      "sha256": "3f0989b419e518e2ed5395c9850ac802c257e3f5e73f9fe4c6b9fc2ef5894c3c",
+      "size": 3790
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/TransferModeMenu.java",
+      "sha256": "a1145fc5e5a8a849956daa1961c0e479a73e30b75ebec9bed12990cc2fdc662c",
+      "size": 4193
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/TransferModesPrefsPanel.java",
+      "sha256": "b1c7e021ffafc649de7e5d9701370ffc2f1eacc5a5abee5c9b97cd394ee33fed",
+      "size": 7239
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/TransferObject.java",
+      "sha256": "a522421701b7e59f3052e3953eb07986fbd96fa681bad9d9e385f8719adeb47e",
+      "size": 1450
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/UIPrefsPanel.java",
+      "sha256": "70a94c8a5c735790cc83a0bb018669e67af13c9683712f5e7957e6819dcf99f1",
+      "size": 4238
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/UploadAsDlg.java",
+      "sha256": "4ca72e097c3075cc656157b68c7cdd58248fbd3516a3ccd4a2b7f6be31bb35cd",
+      "size": 4833
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ZipAndUploadDlg.java",
+      "sha256": "e4de54a839dcc3678618505ae83d9d3588b8b185d01dfaa30468546316888501",
+      "size": 9529
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/java/com/myjavaworld/jftp/actions/AGENTS.md",
+      "sha256": "496c2250720b2f48efac69f2e74fc4db48032b53864afd443f0421234bac7e5f",
+      "size": 1009
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/AbortAction.java",
+      "sha256": "abbcced8f22417bdf10f21e09b9f5f6adeaea0bf4b9c7ca6c4e114771da93ca9",
+      "size": 2206
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/ChangeLocalDirectoryAction.java",
+      "sha256": "f7c92033915b270d0794a56f9152b08a72d612c7c687d8be3139888ffc859e44",
+      "size": 1929
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/ChangeRemoteDirectoryAction.java",
+      "sha256": "0498967f9134c652c54d6dcd0994b823e2cebdc3a2487100521ce841a8a7f6ee",
+      "size": 1947
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/ConnectAction.java",
+      "sha256": "1c6d72787d08f8a9096dff14d50bad8853bcb9b3be9b5d9c5c9270c576fc868f",
+      "size": 2330
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/DeleteLocalFileAction.java",
+      "sha256": "fc8ef697c457489c728ac78bf151de730c48a8e3d15562b5c0bbab6610c40c99",
+      "size": 1603
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/DeleteRemoteFileAction.java",
+      "sha256": "4745a5c04c6d84de501bc8689e457444142df620e6c56c924f98439aae8446c4",
+      "size": 1649
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/DisconnectAction.java",
+      "sha256": "3e3a7f07a2b09f9b6356eb9f2dc2922865d604c39a5047f7a7f94ac6325467ac",
+      "size": 1565
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/DownloadAction.java",
+      "sha256": "1bb7e4eb38ac7e74bca79f274b1513e09c842a0baec70900ca9f256f28dde9a0",
+      "size": 1532
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/DownloadAndUnzipAction.java",
+      "sha256": "e9c8b022ff79e580e461f1eaec5947dd1605e1caed16d66b85068100506140cc",
+      "size": 3281
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/DownloadAsAction.java",
+      "sha256": "29964b38175dc2c27f13c373350762e3d26011b2022459df5a3e239cc07a913a",
+      "size": 2496
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/EditLocalFileAction.java",
+      "sha256": "5507cb50f37de1ed007433f887d66a51283b7c60d9cb19ee5e9e8082318789a9",
+      "size": 1992
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/EditRemoteFileAction.java",
+      "sha256": "ee6fa7331b5a21e8bcb0b6b25ca60a90e202c297a0481ea6bc75e7487d91d323",
+      "size": 2488
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/EmailLocalFileAction.java",
+      "sha256": "ca47bfb3a42a99e06a84da8ee9cadfa83ae66d49a5c559295c211a80b959ed60",
+      "size": 1984
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/EmailRemoteFileAction.java",
+      "sha256": "eadc4b21bb0632a27e0f4962314084310648aa15c79a8403fbfd4f9f4634aa32",
+      "size": 2415
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/ManageCertificatesAction.java",
+      "sha256": "52307a95db0658e95fad51f11855f65fb783b488f16930caf6f8090076b06810",
+      "size": 1636
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/ManageFavoritesAction.java",
+      "sha256": "fc4eaa49588dc8638aa98d460f38373909812dc7aaf517612652d6a9c79e4b72",
+      "size": 1590
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/NewLocalDirectoryAction.java",
+      "sha256": "6e9b4e4cd2700015bedee2861dce0684b3bcb0a1b7a137942a62816d57b5ccd3",
+      "size": 1895
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/NewLocalFileAction.java",
+      "sha256": "89c701153da56cc1653ca7b7f13771c0b114f0da70e5968e4059fabe11383850",
+      "size": 1872
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/NewRemoteDirectoryAction.java",
+      "sha256": "611aa794690d2cf30148043b614d300e5e99352081d504dc627cf6836cf03ef2",
+      "size": 1964
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/NewRemoteFileAction.java",
+      "sha256": "af8d77b519bcac85f8916c1e25cc409b94f55f9d7d2b9e27171a519c47f677fd",
+      "size": 1894
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/NewSessionAction.java",
+      "sha256": "a87f20154e05a2f161afbce9bc83490a7f52ce5152c5cc1ac0f7ef6ecc7479b2",
+      "size": 1455
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/OpenLocalFileAction.java",
+      "sha256": "2a84b52385132679c39b89b3497dfa1e5520539929b93d9f5d551a850f820110",
+      "size": 2079
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/OpenRemoteFileAction.java",
+      "sha256": "366099610a3962bc7c350ca2a23a506a698efcfcad8f37162c4dfa08684c90d2",
+      "size": 2565
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/PrintLocalFileAction.java",
+      "sha256": "290fc20bdf59f9029e51d1a303f78368f1f2f97a65d95b6162b8920c1cad3d29",
+      "size": 1998
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/PrintRemoteFileAction.java",
+      "sha256": "86a430f5a9cfed855f2fb636434e10a1ab0f11693a42bacbe65e7b9997d8551e",
+      "size": 2494
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/ReconnectAction.java",
+      "sha256": "a5f8cf38cc71fb2fedd40a86adcc448398c7bf8cd928132deb93e014e88a82a9",
+      "size": 1591
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/RenameLocalFileAction.java",
+      "sha256": "a0a5c156afcacf29681a4ed39a78d8d589954e0a992d73bdbe6695922c2b7b22",
+      "size": 2176
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/RenameRemoteFileAction.java",
+      "sha256": "b404ea7eaa024e0f6f920915ce0e6e7230c9986d4d16355a6454745c9a6f0955",
+      "size": 2167
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/UploadAction.java",
+      "sha256": "6e17c73a7cf61f9a79c27ddd47f4efefd50e2958ae222d625726cee67d2dcc1b",
+      "size": 1621
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/UploadAsAction.java",
+      "sha256": "670e558e81d2c1d959245d97d3d0a75f70f7e4d5661f8e9ce8aa31043fbc74c4",
+      "size": 2466
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/actions/ZipAndUploadAction.java",
+      "sha256": "eb48431e7b52908f2a56be35bbad69c2130cc97fa87bf46047b38809cf445a8f",
+      "size": 3531
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/package-info.java",
+      "sha256": "0228a31605b11911bd050155d3a7897c2ff3caa90d11cccec72408a2629ef84a",
+      "size": 734
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/AGENTS.md",
+      "sha256": "5148cbd1a18f1830a493ebf9b019bdfa2b66941758c130ff2361b113f5d94146",
+      "size": 1242
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/CertificateDlg.java",
+      "sha256": "f2470e7c194e5470f18fce0ed899fa258d8f5bbe221bfe28a7689b343939ffd6",
+      "size": 4255
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/CertificateManagerDlg.java",
+      "sha256": "6475885e89e5c00112e1500342641ac863bcf3ce4d0d88bdfa97f9287b50f985",
+      "size": 17247
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/CertificatePane.java",
+      "sha256": "3e97c2f63441e688793b8cb7bdef37f5a2daae57d56a6cbb33350745331259f5",
+      "size": 12057
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/CertificateTableModel.java",
+      "sha256": "cde4b01399310c1670604eef9c859cd475a065ef7e81b18e69fddfb9b8a721e5",
+      "size": 3766
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/DNParser.java",
+      "sha256": "bdc06050d8ec1e7d6faf94049f06cb2f8cecc9725749832169bc617a886f48bc",
+      "size": 2887
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/JFTPKeyManager.java",
+      "sha256": "f8493ba16eb23fd6e3209a575928fa7d4eb681d88de0c8215eac70c0a8add1bb",
+      "size": 2505
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/JFTPSSLContext.java",
+      "sha256": "5dd20e780d671faf24efc80807bdae4e74aedf4a56b68895b5925c34bbea2729",
+      "size": 1631
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/JFTPTrustManager.java",
+      "sha256": "11f0a81044f6bb02c0d778732d3ad36b65eec6cb9c63c7d0a5a87e73e226d77a",
+      "size": 4909
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/KeyStoreManager.java",
+      "sha256": "b31467500e6ca1c282b3b8009352e91ad9c3ee6193f12ed181be8ba0d458448d",
+      "size": 9020
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/jftp/ssl/SecurityWarningDlg.java",
+      "sha256": "5024d65710f49a54281793033fa314a1e002ef933b892a81ab94a9fd9009a1b1",
+      "size": 7841
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/java/com/myjavaworld/util/AGENTS.md",
+      "sha256": "f541d7261a936f0da2c070955a55a42f1f0666efb755eaef6b8d1f136b969b0f",
+      "size": 840
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/CommonResources.java",
+      "sha256": "8602a87700ff59ea3a963817db03a2ababb26f6666c4f46105f4caf07e004e8c",
+      "size": 981
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/Encoder.java",
+      "sha256": "e625cc02fa23303d6883c3da90d0abc23ffb44b229e314a57e19499fafd3bad4",
+      "size": 1207
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/FileChangeEvent.java",
+      "sha256": "af808e63f6a60d2686c6a43e32711e496d48b248459e1ce0f7d7a5955a519696",
+      "size": 1217
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/FileChangeListener.java",
+      "sha256": "f1a958203f091df3636ce12f746dfb0e4bb8e679447a4968956715b4aa8c5b77",
+      "size": 835
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/FileChangeMonitor.java",
+      "sha256": "23dd8aca7f66d6027cdadd07efb82b271f3131a2e26588f2acf104f7d7f0bbee",
+      "size": 2959
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/FileUtilities.java",
+      "sha256": "a0c718161a915d6591f7a17abfb63315a7523e7c4e5f3fa98ecb787f522357e4",
+      "size": 1542
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/ProgressEvent.java",
+      "sha256": "b5e89431d8524d6b3cc7522513aa2f404cbdaf3bdcf9d67f704cd4b9e23f7f53",
+      "size": 976
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/ProgressListener.java",
+      "sha256": "dff58a4d998d55054ac163c6625ee540b6e35862978f1a6f3d8d00a048aa59b3",
+      "size": 847
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/RandomKeyGenerator.java",
+      "sha256": "b434049e060d3aa5b233aa9bb07383f07aaddc8ff13352fcc044384c5037173e",
+      "size": 2195
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/ResourceLoader.java",
+      "sha256": "987cea071f2044eddf460cf41a9688c406cf291548f144db3651688c70637dee",
+      "size": 1841
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/StatusEvent.java",
+      "sha256": "8acb857623f70eb115118c5ecb7b9d2db9b74b9c4a851c06e9df49f7d63ec275",
+      "size": 972
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/StatusListener.java",
+      "sha256": "74aa3d0edb37dea2a63e0f1507b9dd27f768647fe0304f453c24d587b6a0837a",
+      "size": 841
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/StringUtilities.java",
+      "sha256": "ff857d2b760bd3994a9e8c4c8cb08b929abf773460be776f7a1d47df73ef8054",
+      "size": 1807
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/SystemUtil.java",
+      "sha256": "2490778846de07bc74a08eac9aa52f7057519842fd8698a48ec517af0ea9ca6e",
+      "size": 2739
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/util/package-info.java",
+      "sha256": "fe9a2b66f7cab2f7fb13eb4111b5da1f4920e90cc02c7a18337b4586a8ebd78e",
+      "size": 690
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/java/com/myjavaworld/zip/AGENTS.md",
+      "sha256": "5cadfb046313f7742e7c76c262584373b7713e660835a3039042e8ef0aee1171",
+      "size": 943
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/zip/Unzip.java",
+      "sha256": "fe6d306284a107aef809408855ccd1938632b9b779ef2b21d56e4e282d7c0c26",
+      "size": 5160
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/zip/Zip.java",
+      "sha256": "e40ddf030df75e8d5ece1df597b8bad7e5bde795261cdd9fec2ca406bffad50e",
+      "size": 7282
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/zip/ZipEvent.java",
+      "sha256": "a7eb8e8fbfd195192eb39c719064cf6e260eb07bf104208da5df1a88a9c060b0",
+      "size": 1115
+    },
+    {
+      "kind": "source",
+      "language": "java",
+      "path": "src/main/java/com/myjavaworld/zip/ZipListener.java",
+      "sha256": "528eeed4801d55f801ee66707acb2aa17dddd2f709ca0cf678ef8dd032476ba5",
+      "size": 857
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/gui/EditPopupMenu.properties",
+      "sha256": "f5645d7b093a50c07c9fff71a7faffd3d72730dfaeeca3b7e4a4e227516abfa8",
+      "size": 126
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/gui/LicenseAgreementDlg.properties",
+      "sha256": "4d363d28de4ae5bf32ec9ab831bfec2663d969bd4eb7d3ab27323b20fac7466f",
+      "size": 80
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/gui/ProgressDialog.properties",
+      "sha256": "093f9adb2c3232b0497ddbdfa00d94a451ec8db2aca3b0211d7497492bb76721",
+      "size": 87
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/AboutDlg.properties",
+      "sha256": "dfe9abcd66454d1ba9c15ea23c5cc9937ae8c64180c8887dbdc7fc919c42b840",
+      "size": 430
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/AdvancedConnectionPrefsPanel.properties",
+      "sha256": "575f68774a1ea88d1c8c40389ceab355bf3f71f16afc6535168bafdd45bd4517",
+      "size": 429
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/AutoUpdater.properties",
+      "sha256": "17cc792bdfe2af128610e5803b54183bde641fe9cef0afa034d31e693aa9e191",
+      "size": 398
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/CertificatePrefsPanel.properties",
+      "sha256": "8ae3368a1c9181cbd6e095ac34d16e3e4728394e04de01bd3bec091e805eec93",
+      "size": 348
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ChangeLocalDirectoryDlg.properties",
+      "sha256": "e4f9ad3631ef980c841f25de08deb0bf22fc09ec75db74e009fbf6712b7d7c39",
+      "size": 152
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ChangeRemoteDirectoryDlg.properties",
+      "sha256": "a3c2fb49b9c1beefe4076c412fdc9030524750caa55080d136db0f9841ebc67c",
+      "size": 153
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ConnectionDlg.properties",
+      "sha256": "2e8ae73a79a4bd9e5a10357dfd8424fe8e938100a36135d02fc4466dce48577b",
+      "size": 1141
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/DownloadAndUnzipDlg.properties",
+      "sha256": "0348ae2ba7a45d77d1a6475bf7f91806ec5ab49fdaac9ddf3c0b09615369c596",
+      "size": 692
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/DownloadAsDlg.properties",
+      "sha256": "b7ee051fff0d0d47940c83be7d0d02c2cc33ef192a0e10b0ae9f0daa77d90090",
+      "size": 136
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ExecuteCommandDlg.properties",
+      "sha256": "892e8079f32333da65034b39361938120e4fd36d4fe08f203c695f11af2bdddd",
+      "size": 164
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/FTPMenu.properties",
+      "sha256": "275f8a3bc70cbade63a83bff193fbd3075eb7a5d56dd0767f0ebeb838e6b01e6",
+      "size": 1055
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/FTPSession.properties",
+      "sha256": "f7497b62d107c1d2b321135dc84649a685db4f8e1e99358aafbc45a19ea84fc6",
+      "size": 1353
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/FavoritePropertiesDlg.properties",
+      "sha256": "a67e8e1f83c4f0ccdcf8ef4a00c079f1c63d6cd96c595cdef716160497b067a1",
+      "size": 1248
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/FavoritesDlg.properties",
+      "sha256": "e5a4bf87786d162ae31bfd1d78e4c23b88a94238c582c30ea8b5f5c22ea7d380",
+      "size": 294
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/GeneralConnectionPrefsPanel.properties",
+      "sha256": "485b96d994396af5902e483922caf9c47a94b554787f3c36187780e15f386f49",
+      "size": 244
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/HelpMenu.properties",
+      "sha256": "b531b1210649dd0770e43909c749c15b606b17480a0a67bbbc82f08f00f68956",
+      "size": 653
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/JFTP.properties",
+      "sha256": "b2e4f864c0f91bd206c156bb34bd0240ea0731785a85af9b628f890f9f2b4625",
+      "size": 160
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/JFTPApplet.properties",
+      "sha256": "f302dff0ff0e7a1ff35c030f488ca506abca24c332b30362a2d4c8a7a755458c",
+      "size": 16
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/JFTPToolBar.properties",
+      "sha256": "909463a3638493e0e11ffb9bbca9bd7f2b8a3f33713b43de6e5173d27da0678a",
+      "size": 1019
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/LocalFileFilterDlg.properties",
+      "sha256": "cc48f7569cafbbf248a7001d712dbca6c33242c949a993fb485d4d9951efdf4a",
+      "size": 1409
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/LocalFilePropertiesDlg.properties",
+      "sha256": "52f13adcb29ddfb11b02fb6a7c1dd7e024d7faa1918f162ff51f263eb90abf83",
+      "size": 322
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/LocalFileTableModel.properties",
+      "sha256": "26ce0c0cf44e4f3d3d0527bdabffb1385cb7d5d2d06654fb9a0a53383eb9e2e4",
+      "size": 79
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/LocalPane.properties",
+      "sha256": "dd7e59dfa7b4547406965700e21a66c1ef4ff9dde1441521fdb4f0f29bc1b59d",
+      "size": 277
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/LocalSystemMenu.properties",
+      "sha256": "08927ab59ee45bd669110d4e722d2ccfa8617165a72b64dd43dbafcf250d8865",
+      "size": 1228
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/LocalePrefsPanel.properties",
+      "sha256": "3fe92f1220dee30c72a3e384ac9780cfed4bd056021c6e5e4824c317de6a69ae",
+      "size": 136
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/NewLocalDirectoryDlg.properties",
+      "sha256": "6f263dccc77f8c82b779951e6c1b7ce2bbd0a2d0cc676961dadffc692fbdaf78",
+      "size": 148
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/NewLocalFileDlg.properties",
+      "sha256": "7242478c1b236203d83ef2c12c71027d493fdc94f97443d7d2b469c520c3e0f8",
+      "size": 123
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/NewRemoteDirectoryDlg.properties",
+      "sha256": "1f42206bc1418d0e704540a4fbc489abb7f9d4ec1c46871a32b2060f8d0e757a",
+      "size": 149
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/NewRemoteFileDlg.properties",
+      "sha256": "d9c1bc843f640661a274a5f6b81ba32095f7858fefc6d5164f0a0b4bef4128e2",
+      "size": 124
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/PreferencesDlg.properties",
+      "sha256": "6b7dec41a6f997a9c77faeb793ceddea2f7b01cc1f24a2f9467cceddfa4760b8",
+      "size": 583
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ProxyPrefsPanel.properties",
+      "sha256": "162507b4f58968d18ab5f5bf8afa52c77d89484b32dc3988d15a93f8fadb4445",
+      "size": 433
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/RemoteFileFilterDlg.properties",
+      "sha256": "f9d939c8eddb2d2c903b63c8803728ce1257747aed41fbc257f609999a355a12",
+      "size": 1309
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/RemoteFilePropertiesDlg.properties",
+      "sha256": "cddadfdfc954a409a403517a48b234d2afdfd8bf37267df69332ba1df67a2aad",
+      "size": 476
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/RemoteFileTableModel.properties",
+      "sha256": "09ce61fdaf41f4c95849503301339b6f8c079fb230e341be0e6f120eb6e4a25f",
+      "size": 107
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/RemotePane.properties",
+      "sha256": "16e283045ac54c07a8524ab7ba9d470e8714c91241e98044389822d14e7dd8b7",
+      "size": 258
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/RemoteSystemMenu.properties",
+      "sha256": "bafcbed251fa98d316f878a48398c17f71093c13d856d4808a1e53497d510c83",
+      "size": 1608
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/RenameLocalFileDlg.properties",
+      "sha256": "04c0cce8acbf9af8f48adf245b62b6e79b74412ed2047f86b3f96873db699d17",
+      "size": 197
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/RenameRemoteFileDlg.properties",
+      "sha256": "e8e7fa570cac3abf02a6c019fa1b0391e0b2aecef0153847009220c272ccadfb",
+      "size": 198
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/SecurityPrefsPanel.properties",
+      "sha256": "d55b814113cfbeafb1ab13cd9f075252abc689023778cec15d12787e003874ff",
+      "size": 196
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/SoftwareUpdatePrefsPanel.properties",
+      "sha256": "bc82516820ccac64153ec5b5e1c63c8cb2f05c52dfcb4763dfb216e61ba33b77",
+      "size": 85
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/StatusBar.properties",
+      "sha256": "9bccb4598fd562b0fc28fcde2b5e53c31fc7e60fdd4206abc84dd00ab906e944",
+      "size": 68
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/StatusWindow.properties",
+      "sha256": "c5e1d71d4518a6f3e6abb170eaa1876145324e04d66f3d9d897dd893b89c9d46",
+      "size": 590
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ToolsMenu.properties",
+      "sha256": "ecad00449f2621a03a1fcbfa9c763b6df5cd711e0262c9d5ab883317abf11acd",
+      "size": 465
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/TransferModeMenu.properties",
+      "sha256": "9aacbcec173259cec4a1e71858bc05ad1447e6f8d375eb081cec8da700a80ae5",
+      "size": 298
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/TransferModesPrefsPanel.properties",
+      "sha256": "51360db15d6cf629e427dc9816148f41065f0733e5762c5b3196207091932943",
+      "size": 104
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/UIPrefsPanel.properties",
+      "sha256": "c7727849180749bdb8d235d1971d294d3f39b3796f1a5954cfb0570ec1e5a1b5",
+      "size": 30
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/UploadAsDlg.properties",
+      "sha256": "2907f9fca97e5e0eac905f947c55f6da575321bbcfd7f43ddf9ceb3fa30c8ab4",
+      "size": 128
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ZipAndUploadDlg.properties",
+      "sha256": "a4f25663fd76b0e2b6354756d37e884ed051fb4436762c031e96b47be81d1eb7",
+      "size": 544
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ssl/CertificateDlg.properties",
+      "sha256": "237ada2989715ac7ac3d3749f8e4e1edbec0ccc05efef483c576fd07b557fa99",
+      "size": 58
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ssl/CertificateManagerDlg.properties",
+      "sha256": "ffde2e48da0b4d53e3bc1e70f4532cc5bbe2af4338c170009b2933ee3eef53af",
+      "size": 430
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ssl/CertificatePane.properties",
+      "sha256": "8252b959028b48abfc5c02b638329d4996a7ce7a30b5a9b90b9c3afa329b5bc1",
+      "size": 405
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ssl/CertificateTableModel.properties",
+      "sha256": "5fb62843bfd52ee7eb32df20af332931ea6001fdc23ede7f6c88397515cf1be1",
+      "size": 90
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/jftp/ssl/SecurityWarningDlg.properties",
+      "sha256": "29ebfed978d05df53c40f0814ea71f6ae85281cdaa44500dfb54c7d9c424a573",
+      "size": 1044
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources/com/myjavaworld/util/CommonResources.properties",
+      "sha256": "8b76f7eba871655c6f1a9e635e7f103c5f597b85cc995b6bd311ab2df00088f8",
+      "size": 561
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/gui/LicenseAgreementDlg_de.properties",
+      "sha256": "ea7e4e32d229b6f8e5a4e612fdc3e92e43fadf5bb1159a86a70291e6839d8fc5",
+      "size": 92
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/gui/ProgressDialog_de.properties",
+      "sha256": "d66923ce3309161e3c772a7a3d3d16d59a8094c0d8d0fc93b3f3223805e11b18",
+      "size": 87
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/DownloadAsDlg_de.properties",
+      "sha256": "3833576e06fcd4fa51a0efa868e6575469357af60fcce0c24a423e12b39d9b58",
+      "size": 162
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/JFTPApplet_de.properties",
+      "sha256": "ea51f85b5e44039577ddcf27276a2dae05a445dc7dd61495b0fa863bae4c7da4",
+      "size": 18
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/JFTP_de.properties",
+      "sha256": "65cbf389e0b4c41f8eead47dc8f601d23cf31c3578391b64f9b375755b59ada4",
+      "size": 193
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/NewLocalDirectoryDlg_de.properties",
+      "sha256": "da3df456fb9b1e229a3a981efd4b2171046ae4a85816e689583ae9d330b85c1d",
+      "size": 164
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/NewLocalFileDlg_de.properties",
+      "sha256": "9c903004d5e7438a38a486f3619997a9ed190fe0ff8d71dbe8070f87dfed0867",
+      "size": 134
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/NewRemoteDirectoryDlg_de.properties",
+      "sha256": "d4211739bdb7bcd75667ac4a9f1b06c23afc56efc561b5f14fd82d95b2c6cd3e",
+      "size": 167
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/NewRemoteFileDlg_de.properties",
+      "sha256": "f4fabf83c22252dcf5df6e01c096cbe2322939943f3181ea2fa679a9b4b6fcb8",
+      "size": 137
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemotePane_de.properties",
+      "sha256": "a668113a22b4c281e4b9eb4ea46cae044998b618524acb270e8400b344235d15",
+      "size": 261
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RenameLocalFileDlg_de.properties",
+      "sha256": "bedf6d2f5b667d2f8b0e1301866cdc046c7745377055de7e6791181aa2e8732b",
+      "size": 229
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RenameRemoteFileDlg_de.properties",
+      "sha256": "83b9ebe35a43733252b201d90894c00bcc6e1f490a4e8ad5e8bac249665bb983",
+      "size": 232
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/StatusBar_de.properties",
+      "sha256": "f5fa157c363008f06e8f04ecfe58f4d538a7fedc56555ef4aff51ecc5fc897aa",
+      "size": 73
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/UIPrefsPanel_de.properties",
+      "sha256": "c7727849180749bdb8d235d1971d294d3f39b3796f1a5954cfb0570ec1e5a1b5",
+      "size": 30
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/UploadAsDlg_de.properties",
+      "sha256": "97eceaa135666b89b26c44ab13659b11d38623f59556655ac5a998767a7455bf",
+      "size": 149
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/CertificateDlg_de.properties",
+      "sha256": "ab568dcd930cb2157b02073362b5228f230b03014f12ea16fc631d290650640d",
+      "size": 62
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/gui/EditPopupMenu_zh_TW.properties",
+      "sha256": "0dc4e665963d60e8eab51710474ef656a2d050391ab581567a7a8d79ccac31ae",
+      "size": 244
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/gui/LicenseAgreementDlg_zh_TW.properties",
+      "sha256": "ca38fa36a6b2b74230f499a30ce41d0f5f4c2df0091d86a4f50a71e3fb340b10",
+      "size": 136
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/gui/ProgressDialog_zh_TW.properties",
+      "sha256": "a7a4b4974bbb3b298d3e91131852d225a20228bc424071165596c40aff4ecd77",
+      "size": 152
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/AboutDlg_zh_TW.properties",
+      "sha256": "7c1ea13dea4d0dfe10ab70ff582ccb5694ab3f875ae491a6896ec4ec74973cb8",
+      "size": 595
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/AdvancedConnectionPrefsPanel_zh_TW.properties",
+      "sha256": "5aa4a0c3955b7443d3a78bf591476e1c5e424135b50cf5389b18cba7bad594c1",
+      "size": 639
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/AutoUpdater_zh_TW.properties",
+      "sha256": "e1e17d14eabd5e3df1a3b720768de1229fdff710e47c2e3811e35cea0adb1573",
+      "size": 534
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/CertificatePrefsPanel_zh_TW.properties",
+      "sha256": "1c6a9293ded1a669f77085e237c89bcb7afda4cb79957216c61310d9da742bb3",
+      "size": 496
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ChangeLocalDirectoryDlg_zh_TW.properties",
+      "sha256": "4c549d6ec033407fed4ac919df68584a6ec37363544766d8c9cd1e75220d855f",
+      "size": 225
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ChangeRemoteDirectoryDlg_zh_TW.properties",
+      "sha256": "dedfa04b4add9afd685b5707a2bd64fd3723d19c4e7b7ad47025a637a9263d0e",
+      "size": 225
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ConnectionDlg_zh_TW.properties",
+      "sha256": "f9d722999320612dd1b4e760798838cea107aac0b4a65593e39419305ab922f5",
+      "size": 1617
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/DownloadAndUnzipDlg_zh_TW.properties",
+      "sha256": "6ab7341e14b8a89f6955ed927b90da62d543c335c5863804922db2b6056f05f2",
+      "size": 953
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/DownloadAsDlg_zh_TW.properties",
+      "sha256": "e992ea6d2c4f636a389620e5ba1bd0b1ac61cde8bd72c972c52f7d49aa826fe0",
+      "size": 211
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ExecuteCommandDlg_zh_TW.properties",
+      "sha256": "28dd78c203438cd9f5a070e6e8ccfd84ae2a15755d1d2720799e57d2c56878ad",
+      "size": 265
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/FTPMenu_zh_TW.properties",
+      "sha256": "098a773c8de7bf95402a05f5f630ed3f9d53982ea6d5808735d2b840b58ee6f4",
+      "size": 1279
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/FTPSession_zh_TW.properties",
+      "sha256": "3c9299081b3e22a3db3f7b456e9b910431b4e3b8666d5946f865f26e76213a25",
+      "size": 1859
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/FavoritePropertiesDlg_zh_TW.properties",
+      "sha256": "c0dd0d825c582beb6fcd5a343781274a21f9e90922032a302ecd95f851da4c4b",
+      "size": 1790
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/FavoritesDlg_zh_TW.properties",
+      "sha256": "63fbbd3cf1f0e9e26f4c29b81fec9a7a5892e11b37023cdef136405452ab3657",
+      "size": 423
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/GeneralConnectionPrefsPanel_zh_TW.properties",
+      "sha256": "93767a5ef7c38d9121c9f2391052ca8c7fc2d611f4683a61ebebb2aa1fa71c37",
+      "size": 361
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/HelpMenu_zh_TW.properties",
+      "sha256": "8c3f38a5ce964eb87b3623e9a7d2415efb2e0e1bebaf37b8bd3e584805e7d5e2",
+      "size": 796
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/InstallLicenseDlg_zh_TW.properties",
+      "sha256": "2049f769b58c2c1471995c8b50bb20a55e9535e5b8b1c15a4c8b60e0d69929fa",
+      "size": 565
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/JFTPApplet_zh_TW.properties",
+      "sha256": "6ae39ab4f681f4ddb1304ecfdf76cdcfa80ac565c6e3b6c50e5aad504e060e84",
+      "size": 51
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/JFTPToolBar_zh_TW.properties",
+      "sha256": "c68c0b24e9f60f981b5d079f890e28eac9f209f2eff2be904cc2eaa3796e54e8",
+      "size": 1561
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/JFTP_zh_TW.properties",
+      "sha256": "26ec537def7afa5b214c388ada41978385cfa12be5de34fb1ce867edafec1550",
+      "size": 229
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalFileFilterDlg_zh_TW.properties",
+      "sha256": "eb72bdeed27cb5937d0e974ec31b94a5db44b185b39751e85ba88e5c2dd96c50",
+      "size": 1939
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalFilePropertiesDlg_zh_TW.properties",
+      "sha256": "21994d46bab6334fb442451c3f31a53bc302551f787da8cee2752b30d502584d",
+      "size": 447
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalFileTableModel_zh_TW.properties",
+      "sha256": "bbcd58fc97f215a23cc57de6282f6533ecada008d821ffc41e7d6cedcfa79856",
+      "size": 154
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalPane_zh_TW.properties",
+      "sha256": "d85d5a31b1f59a7bd613d71246df1329794a048750aa116a7d14c02429293957",
+      "size": 408
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalSystemMenu_zh_TW.properties",
+      "sha256": "7e30647f45d38a9d13621b27d53164cdbf0673ba162b18ec9410d1c31ce5ae3f",
+      "size": 1489
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/LocalePrefsPanel_zh_TW.properties",
+      "sha256": "81039cb4aa43a7aef468b1020b2c36f925be2c7fc704a068aea2dc865cf1737a",
+      "size": 214
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/NewLocalDirectoryDlg_zh_TW.properties",
+      "sha256": "568d93f7ec5caf5349e75fdc5abdf5b99384ef224b37a71b95977ec014194b22",
+      "size": 225
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/NewLocalFileDlg_zh_TW.properties",
+      "sha256": "d92d673e80d0dbd3c95487486f50fccf5478572d74684af8136b42ec3452aea7",
+      "size": 215
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/NewRemoteDirectoryDlg_zh_TW.properties",
+      "sha256": "663f742523bdfe4f2a6448c9d9c4e19872e0bf6de9a96d935642417d7470348b",
+      "size": 225
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/NewRemoteFileDlg_zh_TW.properties",
+      "sha256": "158492e7acc67bb893c07253ad11d39d1d0eb501b360e7b2e64aef39ac2feef8",
+      "size": 215
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/PreferencesDlg_zh_TW.properties",
+      "sha256": "b50c30336a1c278d800a6ff08c725978a34a421cb50da71eaf6e11f58c1ce134",
+      "size": 755
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ProxyPrefsPanel_zh_TW.properties",
+      "sha256": "ca62fca61b2850b39691032a8ef5c97fa9100b13ad9e31dab001134650efd2c0",
+      "size": 729
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/RemoteFileFilterDlg_zh_TW.properties",
+      "sha256": "9c53dde4fbff947d856c5c4e713924a94ef6b34c892823aa209c38b2c8beda66",
+      "size": 1811
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/RemoteFilePropertiesDlg_zh_TW.properties",
+      "sha256": "8bc0bde69f1d433dc997b4c8c16ac5d40d18cf1466972a9fddddda8f56efb15a",
+      "size": 692
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/RemoteFileTableModel_zh_TW.properties",
+      "sha256": "b4894cfd41f823c0a11f8db19c7d81bd06f10008a1bac097c57efb560a7c16b1",
+      "size": 184
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/RemotePane_zh_TW.properties",
+      "sha256": "0c71c644e14bf833cad6fb78d88bbabc437381a6e3b5f721f8e6fe696bbecf5a",
+      "size": 348
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/RemoteSystemMenu_zh_TW.properties",
+      "sha256": "c755890e6902f923bacca75f2bce13eb2f268d2229df6ebdb11e9613deeb71b3",
+      "size": 1935
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/RenameLocalFileDlg_zh_TW.properties",
+      "sha256": "0ab48d79e7ca92e5217f53cad3e4fe223b3882b2dea21496d53aafbb5c79f2e9",
+      "size": 329
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/RenameRemoteFileDlg_zh_TW.properties",
+      "sha256": "f59836c5c138033db3d767cfbc808190050a15f54e101cf173ba0f532ac1b5d6",
+      "size": 329
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/SecurityPrefsPanel_zh_TW.properties",
+      "sha256": "3f4eea09ed5ff02e14a9b338a0060daa894af519faeb28b30903fa6cf7a3ed97",
+      "size": 309
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/SoftwareUpdatePrefsPanel_zh_TW.properties",
+      "sha256": "170bc011804d8db017c5d713a002ed467af72ef723702a6ea43659a0b5b92e65",
+      "size": 137
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/StatusBar_zh_TW.properties",
+      "sha256": "54819d7a4717c8bc535c7fb2de6eebd03733911952f226c4c5ca4451b466fc10",
+      "size": 126
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/StatusWindow_zh_TW.properties",
+      "sha256": "38ca0032ede29f287a7d618cd615c61a315fc914e2018f999eb313c45d32bd7c",
+      "size": 721
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ToolsMenu_zh_TW.properties",
+      "sha256": "db3246db0098376f3f46aad4474933254a81040fe8db8ea2dda14b45e3d7939a",
+      "size": 563
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/TransferModeMenu_zh_TW.properties",
+      "sha256": "526e626d531d89d3774b79dc60ec6b902151edf7dcd7061b40dc32b18baa4001",
+      "size": 362
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/TransferModesPrefsPanel_zh_TW.properties",
+      "sha256": "f1808a46af10024f2b19e99a96ec2da5848e8772cda0c886b584346bb42f8e93",
+      "size": 173
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/UIPrefsPanel_zh_TW.properties",
+      "sha256": "5dee032c54e1efcc1b7d050c256c20a73a187572cdccba93558921ca6ff4a3b8",
+      "size": 75
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/UploadAsDlg_zh_TW.properties",
+      "sha256": "bb8f39864dbb45b1abf2f103c90b02add6f2125c5e7f47edccc3d4687cfe1420",
+      "size": 209
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ZipAndUploadDlg_zh_TW.properties",
+      "sha256": "b000da5d125c1f051879a938eef07d9c1699fbf43277c252d4c6948d47dbdc48",
+      "size": 759
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/CertificateDlg_zh_TW.properties",
+      "sha256": "e3c875235933c443d5188e38f3aadfa57f10b81252650fa27c267053b572d7f7",
+      "size": 92
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/CertificateManagerDlg_zh_TW.properties",
+      "sha256": "be6a8dba38d2c99c2a6a8a2753cd6bfa86e2824893463e822670ed5d578306c0",
+      "size": 570
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/CertificatePane_zh_TW.properties",
+      "sha256": "a22d57307312ef9326a6ac944f59651aec63398f705427ff024ef9362d229874",
+      "size": 480
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/CertificateTableModel_zh_TW.properties",
+      "sha256": "58cf993dafd3dda5653f1b79db480921a7704ed2940ee3d66502b8e485740edd",
+      "size": 165
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/jftp/ssl/SecurityWarningDlg_zh_TW.properties",
+      "sha256": "df4e39cb7e58f91f5f4cb8f2912f82b65381ec61b8f440c6af71d5efa349b27c",
+      "size": 1395
+    },
+    {
+      "kind": "descriptor",
+      "language": null,
+      "path": "src/main/resources_zh_TW/com/myjavaworld/util/CommonResources_zh_TW.properties",
+      "sha256": "78c81355915615524382a2a70eacd157598aba67cd9c68b6c1db1757d56bceb4",
+      "size": 792
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/scripts/jftp.bat",
+      "sha256": "54f0bd429af04c42664b9eed9b2183c2bafdacfe6b34162fd9fab42b5da24962",
+      "size": 60
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/main/scripts/jftp.sh",
+      "sha256": "f2cec192fa6880cc583d2a53d68e9ef608ba12b745bbd5be4c2fb9bd8b4a1b37",
+      "size": 60
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/test/java/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    },
+    {
+      "kind": "other",
+      "language": null,
+      "path": "src/test/resources/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0
+    }
+  ],
+  "fingerprint": "fb98a3fa4c4dc634ddbcd33bfb7a5ce2126763a3abc7f15409e5c7650061bcbe",
+  "git": true,
+  "git_notes": [],
+  "revision": "c3182280a6c74049b9f926e53c7b381ecdc74f8c",
+  "root": "C:\\j2ee\\GIT\\jftp-fork",
+  "skipped": [
+    {
+      "path": "assets/favicon.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "assets/homepage.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "docs/artifacts/jftp-repomap/jftp-repomap.inventory.json",
+      "reason": "explicit exclusion"
+    },
+    {
+      "path": "docs/artifacts/jftp-repomap/jftp-repomap.meta.json",
+      "reason": "explicit exclusion"
+    },
+    {
+      "path": "docs/artifacts/jftp-repomap/jftp-repomap.raw.md",
+      "reason": "explicit exclusion"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/abort16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/certificate16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/changeLocalDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/changeRemoteDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/closedBook16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/connect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/deleteLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/deleteRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/directory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/directory32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/disconnect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/downArrow16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/download16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/favorites16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/file16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/file32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/hardDrive16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/help16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/host16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/indexIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/jftp16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/jftp32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newLocalDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newRemoteDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/newSession16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/nextIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/note32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/openBook16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/previousIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/reconnect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/renameLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/renameRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/searchIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/server16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/splash.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/tip32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/tocIcon.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/topic16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/upArrow16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/upDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/images/upload16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/screenshots/mainWindowExplanation.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/screenshots/mainWindowExplanation.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/sessions/images/cascade.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/sessions/images/tileHorizontal.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/help/helpset/content/sessions/images/tileVertical.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/abort16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/certificate16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/changeLocalDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/changeRemoteDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/changeRemoteDirectory16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/connect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/deleteLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/deleteRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/deleteRemoteFile16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/directory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/directory32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/disconnect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/downArrow16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/download16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/favorites16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/file16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/file32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/hardDrive16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/help16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/host16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp.icns",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp128.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp128.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp32.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp32.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp48.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp48.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/jftp60.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/key16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/launch.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/lock16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newLocalDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newRemoteDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newRemoteDirectory16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newRemoteFile16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/newSession16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/reconnect16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/renameLocalFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/renameRemoteFile16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/renameRemoteFile16.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/server16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/splash.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/splash.png",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/upArrow16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/upDirectory16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/images/com/myjavaworld/jftp/upload16.gif",
+      "reason": "binary file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/gui/EditPopupMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/AboutDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/AdvancedConnectionPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/AutoUpdater_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/CertificatePrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ChangeLocalDirectoryDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ChangeRemoteDirectoryDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ConnectionDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/DownloadAndUnzipDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ExecuteCommandDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/FTPMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/FTPSession_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/FavoritePropertiesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/FavoritesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/GeneralConnectionPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/HelpMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/JFTPToolBar_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalFileFilterDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalFilePropertiesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalFileTableModel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalPane_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalSystemMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/LocalePrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/PreferencesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ProxyPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemoteFileFilterDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemoteFilePropertiesDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemoteFileTableModel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/RemoteSystemMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/SecurityPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/SoftwareUpdatePrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/StatusWindow_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ToolsMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/TransferModeMenu_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/TransferModesPrefsPanel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ZipAndUploadDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/CertificateManagerDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/CertificatePane_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/CertificateTableModel_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/jftp/ssl/SecurityWarningDlg_de.properties",
+      "reason": "non-UTF-8 file"
+    },
+    {
+      "path": "src/main/resources_de/com/myjavaworld/util/CommonResources_de.properties",
+      "reason": "non-UTF-8 file"
+    }
+  ],
+  "totals": {
+    "candidates_seen": 776,
+    "selected_files": 632,
+    "skipped_files": 144
+  }
+}

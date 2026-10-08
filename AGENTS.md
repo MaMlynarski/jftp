@@ -35,6 +35,11 @@ Load the relevant page when its trigger applies; do not load the entire document
 | Change resource roots, translations, help, launchers, or archive layout | [resources-and-distribution.md](docs/resources-and-distribution.md) |
 | Assess what the original analysis covered and what still needs runtime proof | [analysis-method.md](docs/analysis-method.md) and [analysis/verification.md](docs/analysis/verification.md) |
 
+## Source navigation packs
+
+- Start with [the Repo Map](docs/jftp-repomap.md): a compact index of source files and captured declarations (classes, enums, methods, and signatures/parameters), without method bodies. Its raw map, inventory, and metadata are in `docs/RepoMix/Artefact/jftp-repomap/`.
+- Load [the compressed Repomix pack](docs/RepoMix/jftp-source-compressed.xml) when a broad cross-file overview helps. Compression can omit implementation details; use [the full selected-source pack](docs/RepoMix/jftp-source-full.xml) or original files to verify behavior. See [the pack README](docs/RepoMix/README.md). Keep helper scripts and supporting artifacts under `docs/RepoMix/Artefact/` out of default context.
+
 ## TDD and modernization workflow
 
 1. Define expected observable behavior from the relevant documentation and acceptance criteria. For undocumented legacy behavior, characterize it first; distinguish intended contracts from known defects.
